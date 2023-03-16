@@ -1,0 +1,1084 @@
+data;horario;n_da_ocorrencia;tipo_de_ocorrencia;km;trecho;sentido;tipo_de_acidente;automovel;bicicleta;caminhao;moto;onibus;outros;tracao_animal;transporte_de_cargas_especiais;trator_maquinas;utilitarios;ilesos;levemente_feridos;moderadamente_feridos;gravemente_feridos;mortos
+01/05/2021;00:10:00;1;Acidente sem VITIMA;316;BR-101/SC;Sul;Saída de pista;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+01/05/2021;05:25:32;12;Acidente com VITIMA;350;BR-101/SC;Sul;Saída de pista;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+01/05/2021;22:20:00;122;Acidente sem VITIMA;276;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+01/05/2021;22:22:00;123;Acidente sem VITIMA;313;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+01/05/2021;05:59:00;13;Acidente com VITIMA;378;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+01/05/2021;08:18:00;31;Acidente sem VITIMA;369;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+01/05/2021;12:42:28;62;Acidente sem VITIMA;337;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+01/05/2021;16:32:00;78;Acidente sem VITIMA;256;BR-101/SC;Norte;Queda de moto;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+01/05/2021;17:34:00;86;Acidente com VITIMA;310;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+01/05/2021;19:09:56;96;Acidente com VITIMA;295;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+02/05/2021;18:00:00;110;Acidente com VITIMA;399;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+02/05/2021;18:39:00;113;Acidente com VITIMA;458;BR-101/SC;Norte;Outros;0;0;0;2;0;0;0;0;0;0;0;1;0;0;0
+02/05/2021;18:42:00;114;Acidente com VITIMA;333;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;2;0;2;0;0
+02/05/2021;23:12:00;134;Acidente com VITIMA;337;BR-101/SC;Norte;Colisão - Traseira;1;0;1;0;0;0;0;0;0;0;2;0;1;1;0
+02/05/2021;09:10:14;39;Acidente sem VITIMA;350;BR-101/SC;Norte;;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+02/05/2021;11:11:00;56;Acidente com VITIMA;264;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;1;0;0;0;3;0;0;0
+02/05/2021;00:52:00;7;Atropelamento Fatal;309;BR-101/SC;Norte;Atropelamento - Usuário;1;0;0;1;0;0;0;0;0;0;2;0;0;0;1
+02/05/2021;15:01:00;83;Acidente com VITIMA;418;BR-101/SC;Norte;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+02/05/2021;16:11:00;93;Acidente com VITIMA;268;BR-101/SC;Norte;Saída de pista;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+03/05/2021;00:07:13;2;Acidente sem VITIMA;358;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+03/05/2021;07:22:00;22;Acidente com VITIMA;328;BR-101/SC;Norte;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+03/05/2021;07:46:00;31;Acidente sem VITIMA;329;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+04/05/2021;13:13:11;108;Acidente sem VITIMA;272;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+04/05/2021;17:08:00;140;Acidente com VITIMA;344;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;1;1;0;0;0
+04/05/2021;18:30:51;146;Acidente sem VITIMA;332;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+04/05/2021;08:43:00;67;Acidente com VITIMA;335;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;0;1;0;0;0
+05/05/2021;06:50:02;10;Acidente sem VITIMA;330;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+05/05/2021;21:27:51;101;Acidente sem VITIMA;464;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+05/05/2021;06:58:00;11;Acidente com VITIMA;379;BR-101/SC;Sul;Colisão - Transversal;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+05/05/2021;09:22:00;30;Atropelamento;404;BR-101/SC;Norte;;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0
+05/05/2021;11:20:00;41;Acidente com VITIMA;327;BR-101/SC;Norte;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;3;0;1;0;0
+05/05/2021;15:06:00;67;Acidente sem VITIMA;341;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+05/05/2021;17:54:00;80;Acidente sem VITIMA;419;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+05/05/2021;18:05:00;82;Acidente sem VITIMA;361;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+05/05/2021;18:51:45;89;Acidente sem VITIMA;325;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+05/05/2021;06:27:00;9;Acidente com VITIMA FATAL;276;BR-101/SC;Norte;Colisão - Traseira;0;0;0;1;0;0;0;0;0;1;1;0;0;0;1
+05/05/2021;19:11:00;91;Acidente com VITIMA;435;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+05/05/2021;20:49:17;97;Acidente sem VITIMA;380;BR-101/SC;Norte;Outros;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+06/05/2021;18:01:27;120;Acidente sem VITIMA;357;BR-101/SC;Sul;Saída de pista;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+06/05/2021;18:40:33;121;Acidente sem VITIMA;360;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+06/05/2021;19:20:36;124;Acidente com VITIMA;351;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+06/05/2021;19:54:00;127;Acidente com VITIMA;440;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;1;0;0;0
+06/05/2021;10:30:51;64;Acidente com VITIMA;247;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+06/05/2021;11:22:00;70;Acidente com VITIMA;429;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+07/05/2021;20:29:05;126;Acidente sem VITIMA;431;BR-101/SC;Sul;Colisão - Frontal;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+07/05/2021;20:58:21;129;Acidente sem VITIMA;305;BR-101/SC;Norte;Choque com objeto sobre a pista;1;0;0;0;0;0;0;0;0;1;5;0;0;0;0
+07/05/2021;05:52:00;13;Acidente sem VITIMA;260;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+07/05/2021;13:41:00;77;Acidente com VITIMA;288;BR-101/SC;Sul;Queda de moto;1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+08/05/2021;19:09:00;125;Acidente com VITIMA;350;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;0;1;0;0
+08/05/2021;05:51:49;29;Acidente sem VITIMA;353;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;5;0;0;0;0
+08/05/2021;01:16:00;4;Acidente com VITIMA;304;BR-101/SC;Sul;Colisão - Traseira;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0
+08/05/2021;07:27:00;40;Acidente sem VITIMA;360;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+08/05/2021;12:31:00;85;Acidente com VITIMA;330;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+09/05/2021;12:52:00;42;Acidente sem VITIMA;376;BR-101/SC;Sul;Saída de pista;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+09/05/2021;16:15:00;58;Acidente sem VITIMA;336;BR-101/SC;Norte;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+09/05/2021;18:35:00;74;Acidente com VITIMA;272;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+09/05/2021;20:01:00;86;Acidente sem VITIMA;360;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;5;0;0;0;0
+10/05/2021;16:43:53;124;Acidente com VITIMA;420;BR-101/SC;Norte;Colisão - Traseira;0;0;0;1;0;0;0;0;0;1;1;0;1;0;0
+10/05/2021;17:25:00;131;Acidente com VITIMA;304;BR-101/SC;Sul;Tombamento;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0
+10/05/2021;21:34:00;150;Acidente sem VITIMA;442;BR-101/SC;Sul;Colisão - Frontal;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+10/05/2021;09:16:00;69;Acidente com VITIMA;438;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;1;0;2;1;0
+10/05/2021;10:45:00;80;Acidente com VITIMA;269;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+11/05/2021;00:08:51;1;Acidente com VITIMA;364;BR-101/SC;Norte;Colisão - Traseira;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0
+11/05/2021;10:38:00;56;Acidente sem VITIMA;245;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+11/05/2021;11:18:00;61;Acidente sem VITIMA;300;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;1;0;1;3;0;0;0;0
+11/05/2021;17:00:17;92;Acidente com VITIMA;250;BR-101/SC;Norte;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+11/05/2021;18:05:00;99;Acidente sem VITIMA;336;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+12/05/2021;04:17:00;15;Acidente com VITIMA;392;BR-101/SC;Sul;Saída de pista;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0
+12/05/2021;07:18:00;32;Acidente com VITIMA;334;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+12/05/2021;08:02:00;42;Acidente sem VITIMA;359;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+12/05/2021;09:49:06;68;Acidente sem VITIMA;374;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+13/05/2021;16:16:00;104;Acidente com VITIMA;398;BR-101/SC;Sul;Choque Defensa;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+13/05/2021;17:03:00;111;Acidente com VITIMA;361;BR-101/SC;Norte;Colisão - Traseira;0;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+13/05/2021;06:09:17;12;Acidente sem VITIMA;266;BR-101/SC;Norte;Queda de Carga;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+13/05/2021;19:21:00;125;Atropelamento;295;BR-101/SC;Norte;Atropelamento - Usuário;1;0;0;1;0;0;0;0;0;0;1;0;0;1;0
+13/05/2021;19:28:00;126;Acidente sem VITIMA;337,7;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;7;0;0;0;0
+13/05/2021;08:20:00;37;Acidente sem VITIMA;334;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+13/05/2021;09:25:00;43;Acidente sem VITIMA;360;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+13/05/2021;11:36:00;60;Acidente com VITIMA;282;BR-101/SC;Sul;Choque com veículo na faixa de rolamento;0;0;0;1;0;0;0;1;0;0;1;1;0;1;0
+13/05/2021;02:57:11;7;Acidente sem VITIMA;378;BR-101/SC;Sul;Tombamento;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+13/05/2021;15:37:00;96;Acidente com VITIMA;282;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+14/05/2021;02:25:48;10;Acidente sem VITIMA;331;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+14/05/2021;18:09:00;127;Acidente sem VITIMA;331;BR-101/SC;Norte;Engavetamento;5;0;1;0;0;0;0;0;0;1;7;0;0;0;0
+14/05/2021;20:04:00;135;Atropelamento Fatal;361;BR-101/SC;Sul;Atropelamento - Morador/Trabalhador/Estudante;1;0;0;1;0;0;0;0;0;1;5;0;0;0;1
+14/05/2021;21:08:00;139;Acidente sem VITIMA;259;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+14/05/2021;23:26:00;145;Acidente com VITIMA;426;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+14/05/2021;07:50:00;39;Acidente sem VITIMA;311;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+14/05/2021;11:27:00;67;Acidente com VITIMA;362;BR-101/SC;Sul;Outros;2;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+15/05/2021;22:55:20;121;Acidente com VITIMA;373;BR-101/SC;Sul;Saída de pista;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+15/05/2021;15:51:00;73;Acidente com VITIMA;282;BR-101/SC;Ambos;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;3;1;0;0;0
+15/05/2021;17:00:00;84;Acidente com VITIMA;258;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+15/05/2021;02:37:19;9;Acidente sem VITIMA;284;BR-101/SC;Norte;Outros;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+15/05/2021;18:08:52;93;Acidente sem VITIMA;275;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+16/05/2021;05:54:00;14;Acidente sem VITIMA;394;BR-101/SC;Sul;Choque Talude;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+16/05/2021;07:02:00;18;Acidente sem VITIMA;387;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+16/05/2021;00:04:00;2;Acidente com VITIMA;335;BR-101/SC;Norte;Colisão - Frontal;2;0;1;0;0;0;0;0;0;0;1;0;3;1;0
+16/05/2021;14:48:00;56;Acidente com VITIMA;423;BR-101/SC;Sul;Colisão - Transversal;1;0;0;1;0;0;0;0;0;0;1;1;1;0;0
+16/05/2021;18:15:00;80;Acidente sem VITIMA;405;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+16/05/2021;20:09:00;94;Acidente com VITIMA;328;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;2;1;0;0;0
+16/05/2021;20:27:00;98;Acidente sem VITIMA;344;BR-101/SC;Sul;Choque Praça - Submarino;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0
+17/05/2021;18:07:00;120;Acidente sem VITIMA;417;BR-101/SC;Norte;Colisão - Traseira;0;0;0;2;0;0;0;0;0;0;2;0;0;0;0
+17/05/2021;20:18:00;133;Acidente com VITIMA;344;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;3;1;0;0;0
+17/05/2021;08:53:00;44;Acidente com VITIMA;440;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+17/05/2021;12:34:06;79;Acidente com VITIMA;415;BR-101/SC;Norte;Queda de moto;1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+18/05/2021;15:04:00;109;Acidente com VITIMA;416;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+18/05/2021;15:54:00;118;Acidente com VITIMA;437;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;1;0;0;2;0
+18/05/2021;18:37:00;129;Acidente com VITIMA;333;BR-101/SC;Norte;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+18/05/2021;18:50:55;131;Acidente sem VITIMA;334;BR-101/SC;Norte;Colisão - Traseira;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0
+18/05/2021;19:29:05;132;Acidente com VITIMA;318;BR-101/SC;Sul;Saída de pista;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+18/05/2021;04:46:27;15;Acidente sem VITIMA;383;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+18/05/2021;13:12:00;91;Acidente sem VITIMA;436;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+19/05/2021;20:28:00;114;Acidente com VITIMA;311;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;1;0;0;0
+19/05/2021;07:28:00;19;Acidente sem VITIMA;344;BR-101/SC;Norte;;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+19/05/2021;07:34:00;21;Acidente sem VITIMA;328;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+19/05/2021;10:56:04;48;Acidente sem VITIMA;281;BR-101/SC;Ambos;Saída de pista;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+19/05/2021;03:06:09;7;Acidente sem VITIMA;432;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+20/05/2021;15:38:31;118;Atropelamento;334;BR-101/SC;Sul;Atropelamento - Usuário;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+20/05/2021;20:44:36;145;Acidente sem VITIMA;399;BR-101/SC;Norte;Choque Barreira;2;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+20/05/2021;07:35:00;35;Acidente com VITIMA;356;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;1;0;0;1;2;0;0;0
+20/05/2021;09:20:00;68;Acidente sem VITIMA;326;BR-101/SC;Sul;Colisão - Traseira;0;0;0;2;0;0;0;0;0;0;2;0;0;0;0
+20/05/2021;10:09:00;76;Acidente sem VITIMA;261;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;1;0;0;5;0;0;0;0
+20/05/2021;12:15:00;96;Acidente com VITIMA;337;BR-101/SC;Sul;Choque - Arvore;0;0;1;1;0;0;0;0;0;0;1;0;1;0;0
+21/05/2021;03:48:06;11;Acidente sem VITIMA;431;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+21/05/2021;18:41:00;119;Acidente com VITIMA;413;BR-101/SC;Sul;Colisão - Frontal;1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+22/05/2021;18:21:45;104;Acidente com VITIMA;416;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+22/05/2021;21:39:00;114;Acidente sem VITIMA;430;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+22/05/2021;22:35:00;116;Acidente sem VITIMA;388;BR-101/SC;Norte;Tombamento;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+22/05/2021;04:51:00;20;Acidente sem VITIMA;368;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+22/05/2021;12:15:00;64;Acidente sem VITIMA;403;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+23/05/2021;19:41:00;104;Acidente sem VITIMA;381;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+23/05/2021;21:21:06;112;Acidente com VITIMA;362;BR-101/SC;Sul;Colisão - Traseira;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+23/05/2021;23:18:00;122;Acidente com VITIMA;377;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+23/05/2021;04:25:00;14;Acidente com VITIMA;452;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;1;0;0;0;0;0;3;1;0;0;0
+23/05/2021;10:12:00;40;Acidente sem VITIMA;404;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+23/05/2021;01:22:00;6;Acidente sem VITIMA;280;BR-101/SC;Sul;Choque - Poste;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+23/05/2021;15:13:37;70;Acidente sem VITIMA;444;BR-101/SC;Norte;;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+23/05/2021;16:53:00;82;Acidente sem VITIMA;338;BR-101/SC;Sul;Queda de moto;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+23/05/2021;17:53:00;89;Acidente com VITIMA;381;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+24/05/2021;15:41:00;105;Acidente com VITIMA;355;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;1;2;0;0;0
+24/05/2021;17:27:00;119;Acidente sem VITIMA;404;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;3;0;0;0;0
+24/05/2021;17:51:00;123;Acidente sem VITIMA;282;BR-101/SC;Sul;Atropelamento - Morador/Trabalhador/Estudante;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+24/05/2021;18:43:47;126;Acidente com VITIMA;336;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;1;1;0;0;0
+24/05/2021;12:44:00;88;Acidente sem VITIMA;339;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+25/05/2021;09:15:28;43;Acidente sem VITIMA;367;BR-101/SC;Norte;Tombamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+25/05/2021;15:58:00;82;Acidente sem VITIMA;357;BR-101/SC;Norte;Colisão - Traseira;0;0;0;0;0;0;0;1;0;1;3;0;0;0;0
+25/05/2021;18:45:00;93;Acidente com VITIMA;424;BR-101/SC;Norte;Saída de pista;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+25/05/2021;19:45:00;98;Acidente sem VITIMA;457;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;5;0;0;0;0
+26/05/2021;17:51:00;102;Acidente sem VITIMA;367;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+26/05/2021;18:48:00;107;Acidente com VITIMA;373;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;1;0;0;0
+26/05/2021;21:05:00;115;Acidente sem VITIMA;464;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+26/05/2021;05:38:00;14;Acidente com VITIMA;323;BR-101/SC;Sul;Colisão - Traseira;0;0;0;2;0;0;0;0;0;1;2;0;1;0;0
+26/05/2021;07:51:00;32;Acidente sem VITIMA;387;BR-101/SC;Norte;Engavetamento;2;0;0;0;0;0;0;2;0;1;5;0;0;0;0
+26/05/2021;01:34:00;5;Acidente sem VITIMA;369;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+26/05/2021;09:33:00;51;Acidente sem VITIMA;436;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+27/05/2021;22:19:00;109;Acidente com VITIMA;268;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+27/05/2021;22:43:00;111;Acidente sem VITIMA;332;BR-101/SC;Ambos;Choque - Meio Fio;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+27/05/2021;23:39:00;115;Acidente sem VITIMA;390,4;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+27/05/2021;07:00:00;17;Acidente sem VITIMA;404;BR-101/SC;Sul;Engavetamento;3;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+27/05/2021;07:48:13;25;Acidente com VITIMA;329;BR-101/SC;Ambos;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;1;0;0;0
+27/05/2021;10:47:00;56;Acidente sem VITIMA;323;BR-101/SC;Norte;Colisão - Traseira;1;0;1;0;0;0;0;0;0;0;3;0;0;0;0
+27/05/2021;11:46:00;61;Acidente sem VITIMA;261;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+28/05/2021;19:39:22;115;Acidente com VITIMA;415;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;1;0;0
+28/05/2021;20:14:13;124;Acidente com VITIMA;367;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+28/05/2021;20:23:00;127;Acidente sem VITIMA;352;BR-101/SC;Sul;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+28/05/2021;22:48:41;143;Acidente sem VITIMA;383;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+28/05/2021;22:55:00;144;Acidente sem VITIMA;390;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+28/05/2021;23:15:00;145;Acidente sem VITIMA;266;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+28/05/2021;23:50:01;148;Acidente sem VITIMA;394;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+28/05/2021;06:37:00;27;Acidente sem VITIMA;410;BR-101/SC;Sul;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+28/05/2021;07:02:47;30;Acidente sem VITIMA;376;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+28/05/2021;08:45:00;49;Acidente sem VITIMA;298;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+28/05/2021;08:59:00;51;Acidente com VITIMA FATAL;269;BR-101/SC;Sul;Choque - Poste;1;0;1;0;0;0;0;0;0;1;2;0;0;0;1
+28/05/2021;01:03:00;6;Acidente sem VITIMA;442;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+28/05/2021;10:42:00;60;Acidente com VITIMA;338;BR-101/SC;Sul;Tombamento;0;0;0;0;0;0;0;1;0;0;0;1;1;0;0
+28/05/2021;12:06:00;65;Acidente sem VITIMA;282;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+28/05/2021;12:28:00;68;Acidente sem VITIMA;336;BR-101/SC;Sul;Colisão - Traseira;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0
+28/05/2021;15:16:00;91;Acidente sem VITIMA;404;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+29/05/2021;00:18:00;1;Acidente com VITIMA;264;BR-101/SC;Ambos;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+29/05/2021;02:19:00;12;Acidente sem VITIMA;275;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+29/05/2021;04:58:00;22;Acidente sem VITIMA;338;BR-101/SC;Sul;Outros;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+29/05/2021;08:34:00;33;Acidente sem VITIMA;404;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+29/05/2021;12:39:51;59;Acidente sem VITIMA;300;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+29/05/2021;01:26:00;7;Acidente sem VITIMA;278;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+29/05/2021;16:14:14;77;Acidente com VITIMA;354;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;0;2;0;0
+29/05/2021;01:28:00;8;Acidente sem VITIMA;334;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+29/05/2021;17:37:00;81;Acidente com VITIMA;378;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+30/05/2021;17:51:00;107;Atropelamento;260;BR-101/SC;Sul;Atropelamento - Morador/Trabalhador/Estudante;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0
+30/05/2021;18:25:00;113;Acidente com VITIMA;341;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;1;0;0
+30/05/2021;21:04:31;128;Acidente sem VITIMA;384;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+30/05/2021;05:25:00;22;Acidente sem VITIMA;423;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+30/05/2021;09:31:53;45;Acidente sem VITIMA;383;BR-101/SC;Sul;Choque Defensa;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+31/05/2021;15:41:00;103;Acidente sem VITIMA;333;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+31/05/2021;19:11:00;119;Acidente sem VITIMA;313;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+31/05/2021;12:00:00;72;Acidente sem VITIMA;374;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+01/06/2021;19:17:51;115;Acidente sem VITIMA;464;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+01/06/2021;23:00:00;131;Acidente com VITIMA;329;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+01/06/2021;10:39:00;57;Acidente sem VITIMA;298;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+01/06/2021;12:03:00;65;Acidente com VITIMA;353;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+01/06/2021;12:13:00;66;Acidente sem VITIMA;280;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+02/06/2021;18:11:35;103;Acidente sem VITIMA;290;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+02/06/2021;18:40:00;105;Acidente sem VITIMA;344;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+02/06/2021;18:47:00;106;Acidente com VITIMA;455;BR-101/SC;Sul;Atropelamento de Animal;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+02/06/2021;19:05:00;107;Acidente sem VITIMA;344;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;5;0;0;0;0
+02/06/2021;21:20:31;118;Atropelamento;397,8;BR-101/SC;Norte;Atropelamento - Morador/Trabalhador/Estudante;0;0;0;2;0;0;0;0;0;0;1;1;0;0;0
+02/06/2021;22:30:00;123;Acidente sem VITIMA;282;BR-101/SC;Sul;Colisão - Traseira;3;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+02/06/2021;22:55:45;126;Acidente com VITIMA;286,5;BR-101/SC;Sul;Capotamento;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+02/06/2021;23:44:00;128;Acidente com VITIMA;306;BR-101/SC;Norte;Colisão - Traseira;0;0;0;2;0;0;0;0;0;0;1;1;0;0;0
+02/06/2021;06:56:00;15;Acidente com VITIMA;331;BR-101/SC;Ambos;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;3;1;0;0;0
+02/06/2021;07:44:00;26;Acidente com VITIMA;326;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;1;0;0;0
+02/06/2021;08:59:00;38;Acidente sem VITIMA;404;BR-101/SC;Ambos;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+02/06/2021;12:11:00;62;Acidente com VITIMA;404;BR-101/SC;Ambos;Engavetamento;2;0;0;0;0;0;0;0;0;1;3;1;0;0;0
+02/06/2021;13:31:00;69;Acidente com VITIMA;283;BR-101/SC;Norte;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+03/06/2021;18:17:00;106;Acidente sem VITIMA;299;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+03/06/2021;19:58:00;113;Acidente sem VITIMA;368;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;6;0;0;0;0
+03/06/2021;02:57:09;14;Acidente sem VITIMA;328;BR-101/SC;Sul;Choque com objeto sobre a pista;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+03/06/2021;05:26:19;30;Acidente sem VITIMA;392;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+03/06/2021;06:19:00;32;Acidente sem VITIMA;431;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+03/06/2021;10:10:00;58;Acidente com VITIMA FATAL;350;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;3;2;0;1
+03/06/2021;10:38:00;60;Acidente com VITIMA;277;BR-101/SC;Sul;Colisão - Frontal;2;0;0;1;0;0;0;0;0;0;2;0;1;0;0
+04/06/2021;00:38:00;1;Acidente sem VITIMA;454;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+04/06/2021;16:37:00;101;Acidente sem VITIMA;271;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+04/06/2021;19:38:42;119;Acidente sem VITIMA;452;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+04/06/2021;20:31:05;124;Acidente sem VITIMA;334;BR-101/SC;Sul;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+04/06/2021;04:48:00;15;Acidente sem VITIMA;396;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+04/06/2021;07:41:00;24;Acidente sem VITIMA;334;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+04/06/2021;09:07:00;40;Acidente sem VITIMA;285;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+04/06/2021;09:22:00;42;Acidente sem VITIMA;358;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+04/06/2021;10:51:00;53;Acidente sem VITIMA;256;BR-101/SC;Norte;Colisão - Lateral;1;0;1;0;0;0;0;0;0;0;2;0;0;0;0
+04/06/2021;14:29:22;76;Acidente sem VITIMA;290;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+04/06/2021;15:17:00;82;Acidente sem VITIMA;379;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+05/06/2021;19:28:00;108;Acidente sem VITIMA;331;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+05/06/2021;19:51:00;110;Acidente sem VITIMA;405;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;3;0;0;0;0
+05/06/2021;22:21:00;129;Acidente com VITIMA;291;BR-101/SC;Norte;Saída de pista;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+05/06/2021;23:02:00;134;Acidente com VITIMA;390;BR-101/SC;Sul;Saída de pista;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+05/06/2021;07:06:00;28;Acidente com VITIMA;378;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+05/06/2021;07:17:00;31;Acidente com VITIMA;260;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+05/06/2021;01:44:10;4;Acidente com VITIMA;368;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+05/06/2021;18:33:44;99;Acidente sem VITIMA;331;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+06/06/2021;21:16:00;105;Acidente sem VITIMA;333;BR-101/SC;Sul;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+06/06/2021;21:40:00;108;Acidente sem VITIMA;306;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+06/06/2021;21:52:25;110;Acidente sem VITIMA;374;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+06/06/2021;22:42:00;113;Acidente sem VITIMA;254;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+06/06/2021;23:58:00;114;Acidente com VITIMA;445;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+06/06/2021;02:06:41;12;Acidente sem VITIMA;388;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+06/06/2021;03:04:00;16;Acidente sem VITIMA;298;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+06/06/2021;04:22:22;20;Acidente sem VITIMA;345;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+06/06/2021;18:24:16;86;Acidente sem VITIMA;277;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+06/06/2021;18:47:00;90;Acidente sem VITIMA;325;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+06/06/2021;18:51:00;92;Acidente sem VITIMA;367;BR-101/SC;Sul;Choque com veículo na faixa de rolamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+07/06/2021;18:44:09;100;Acidente com VITIMA;382;BR-101/SC;Sul;Colisão - Frontal;2;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+07/06/2021;18:52:00;103;Acidente sem VITIMA;373;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+07/06/2021;19:16:30;105;Acidente sem VITIMA;429;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;10;0;0;0;0
+07/06/2021;07:31:07;16;Acidente com VITIMA;329;BR-101/SC;Sul;Choque Defensa;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+07/06/2021;08:04:00;27;Acidente sem VITIMA;334;BR-101/SC;Sul;Colisão - Traseira;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+07/06/2021;08:40:16;31;Acidente com VITIMA;258;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+07/06/2021;12:53:00;53;Acidente sem VITIMA;249;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+07/06/2021;14:11:00;61;Acidente com VITIMA;256;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+07/06/2021;15:16:00;73;Acidente sem VITIMA;260;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+07/06/2021;16:07:00;78;Acidente sem VITIMA;265;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+07/06/2021;17:21:00;89;Acidente sem VITIMA;344;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+07/06/2021;17:58:00;93;Acidente com VITIMA;383;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;1;0;0;0
+07/06/2021;18:04:15;95;Acidente com VITIMA;374;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+07/06/2021;18:35:20;99;Acidente sem VITIMA;464;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+08/06/2021;08:53:09;31;Acidente com VITIMA;362;BR-101/SC;Norte;Colisão - Traseira;1;0;1;0;0;0;0;0;0;0;1;1;0;0;0
+08/06/2021;09:48:22;37;Acidente sem VITIMA;353;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+08/06/2021;11:07:00;49;Acidente sem VITIMA;391;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;5;0;0;0;0
+08/06/2021;17:25:28;89;Acidente com VITIMA;342;BR-101/SC;Norte;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;2;0;1;0;0
+08/06/2021;03:02:00;9;Acidente com VITIMA;257;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+08/06/2021;18:25:00;92;Acidente com VITIMA;328;BR-101/SC;Norte;;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+08/06/2021;19:22:13;99;Acidente sem VITIMA;384;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+09/06/2021;18:55:26;109;Acidente sem VITIMA;385;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+09/06/2021;19:18:00;113;Acidente sem VITIMA;429;BR-101/SC;Norte;Colisão - Lateral;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0
+09/06/2021;19:41:22;115;Acidente com VITIMA;366;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+09/06/2021;20:17:18;118;Acidente sem VITIMA;355;BR-101/SC;Norte;Colisão - Traseira;0;0;1;0;0;0;0;0;0;1;2;0;0;0;0
+09/06/2021;22:43:00;128;Acidente sem VITIMA;306;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+09/06/2021;23:07:00;132;Acidente sem VITIMA;428;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+09/06/2021;04:03:00;15;Acidente sem VITIMA;325;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+09/06/2021;05:56:00;20;Acidente sem VITIMA;403;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+09/06/2021;08:18:00;37;Acidente sem VITIMA;335;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+09/06/2021;10:26:00;57;Acidente sem VITIMA;435;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+09/06/2021;10:56:44;61;Acidente com VITIMA;367;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+09/06/2021;13:39:00;81;Acidente sem VITIMA;374;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;3;0;0;0;0
+09/06/2021;14:21:00;86;Acidente sem VITIMA;435;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+09/06/2021;14:23:02;87;Acidente sem VITIMA;399;BR-101/SC;Norte;Capotamento;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+10/06/2021;00:35:00;1;Acidente sem VITIMA;336;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+10/06/2021;17:25:00;119;Acidente sem VITIMA;458;BR-101/SC;Norte;Outros;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+10/06/2021;18:09:00;123;Acidente sem VITIMA;343;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+10/06/2021;21:16:44;142;Acidente sem VITIMA;460;BR-101/SC;Sul;Choque com objeto sobre a pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+10/06/2021;22:20:00;152;Acidente sem VITIMA;305;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+10/06/2021;23:52:00;156;Acidente com VITIMA;336;BR-101/SC;Sul;Colisão - Traseira;0;0;0;1;0;0;0;0;0;0;1;1;1;0;0
+10/06/2021;06:43:00;19;Acidente com VITIMA;429,59;BR-101/SC;Norte;Queda de moto;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+10/06/2021;08:45:00;41;Acidente com VITIMA;455;BR-101/SC;Sul;Choque com objeto sobre a pista;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+10/06/2021;11:07:54;66;Acidente sem VITIMA;431;BR-101/SC;Norte;Choque Barreira;2;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+10/06/2021;15:03:00;95;Acidente sem VITIMA;404;BR-101/SC;Norte;Colisão - Traseira;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0
+10/06/2021;15:27:00;98;Acidente sem VITIMA;419;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+11/06/2021;19:29:27;116;Acidente sem VITIMA;344;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+11/06/2021;20:05:06;120;Acidente sem VITIMA;416;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+11/06/2021;20:42:10;127;Atropelamento;400;BR-101/SC;Norte;Atropelamento - Usuário;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+11/06/2021;21:15:00;131;Acidente com VITIMA;390;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+11/06/2021;21:34:00;135;Acidente sem VITIMA;335;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;2;2;0;0;0;0
+11/06/2021;15:46:00;97;Acidente sem VITIMA;460;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+12/06/2021;04:44:29;10;Acidente sem VITIMA;388;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+12/06/2021;07:36:00;17;Acidente com VITIMA;367;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;1;2;1;0;1;0
+12/06/2021;09:54:00;28;Acidente sem VITIMA;353;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+12/06/2021;00:29:00;3;Acidente sem VITIMA;429;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+12/06/2021;10:57:00;40;Acidente sem VITIMA;436;BR-101/SC;Norte;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+12/06/2021;14:58:00;63;Acidente com VITIMA;288;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+12/06/2021;16:37:28;72;Acidente com VITIMA;384;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;1;0;2;0;0
+12/06/2021;16:58:00;75;Acidente sem VITIMA;409;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+12/06/2021;18:52:00;82;Acidente sem VITIMA;312;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+12/06/2021;20:21:00;91;Acidente sem VITIMA;403;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+12/06/2021;20:47:00;92;Acidente sem VITIMA;290;BR-101/SC;Norte;Choque Defensa;1;0;1;0;0;0;0;0;0;0;2;0;0;0;0
+12/06/2021;21:17:00;94;Acidente com VITIMA;327;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;1;0;0;0
+13/06/2021;18:21:00;131;Acidente sem VITIMA;277;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;6;0;0;0;0
+13/06/2021;18:29:00;132;Acidente sem VITIMA;313;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+13/06/2021;03:12:00;14;Acidente sem VITIMA;280;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+13/06/2021;20:10:00;144;Acidente com VITIMA;406;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;2;0;0
+13/06/2021;03:54:00;22;Acidente sem VITIMA;463;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+13/06/2021;10:32:00;77;Acidente sem VITIMA;384;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+13/06/2021;11:17:37;82;Acidente sem VITIMA;406;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+14/06/2021;02:43:00;10;Acidente com VITIMA;395;BR-101/SC;Norte;Colisão - Transversal;1;0;0;0;0;0;0;0;0;1;2;1;0;0;0
+14/06/2021;06:14:02;26;Acidente com VITIMA;285;BR-101/SC;Norte;Outros;2;0;0;0;0;0;0;0;0;1;2;1;0;0;0
+14/06/2021;06:13:35;27;Acidente com VITIMA;330;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+14/06/2021;08:41:00;43;Acidente sem VITIMA;326;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+14/06/2021;18:20:00;93;Acidente sem VITIMA;406;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+15/06/2021;18:07:00;107;Acidente sem VITIMA;344;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+15/06/2021;18:16:49;111;Acidente com VITIMA;276;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+15/06/2021;08:11:00;42;Acidente sem VITIMA;347;BR-101/SC;Sul;Engavetamento;3;0;0;0;0;0;0;0;0;0;5;0;0;0;0
+16/06/2021;19:02:50;140;Acidente sem VITIMA;437;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+16/06/2021;21:19:10;152;Acidente sem VITIMA;363;BR-101/SC;Norte;Colisão - Traseira;0;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+16/06/2021;01:42:00;6;Acidente sem VITIMA;345;BR-101/SC;Sul;Tombamento;0;0;1;0;0;0;0;0;0;0;2;0;0;0;0
+16/06/2021;09:55:00;67;Acidente sem VITIMA;308;BR-101/SC;Sul;;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+17/06/2021;21:02:00;104;Acidente com VITIMA;287;BR-101/SC;Norte;Colisão - Traseira;0;0;0;1;0;0;0;0;0;1;2;0;1;0;0
+17/06/2021;21:05:00;106;Acidente sem VITIMA;373;BR-101/SC;Norte;Choque com objeto sobre a pista;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+17/06/2021;17:16:00;86;Acidente sem VITIMA;251;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+17/06/2021;20:30:00;99;Acidente sem VITIMA;458;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+18/06/2021;16:56:00;104;Acidente com VITIMA;445;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+18/06/2021;18:28:58;114;Acidente sem VITIMA;444;BR-101/SC;Sul;Capotamento;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+18/06/2021;18:39:00;116;Atropelamento;334;BR-101/SC;Sul;Atropelamento - Morador/Trabalhador/Estudante;0;0;0;2;0;0;0;0;0;0;0;3;0;0;0
+18/06/2021;19:52:22;124;Acidente sem VITIMA;427;BR-101/SC;Norte;Choque com objeto sobre a pista;3;0;0;0;0;0;0;1;0;0;5;0;0;0;0
+18/06/2021;10:01:00;56;Acidente sem VITIMA;419;BR-101/SC;Norte;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+18/06/2021;10:47:00;59;Acidente sem VITIMA;359;BR-101/SC;Ambos;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+18/06/2021;14:17:00;86;Acidente sem VITIMA;317;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;1;4;0;0;0;0
+19/06/2021;14:26:00;56;Acidente com VITIMA FATAL;257;BR-101/SC;Norte;Choque Talude;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1
+19/06/2021;15:49:39;61;Acidente com VITIMA;317;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+19/06/2021;14:44:00;62;Acidente sem VITIMA;257;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+19/06/2021;17:51:22;70;Acidente sem VITIMA;287;BR-101/SC;Sul;Choque Barreira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+19/06/2021;18:00:00;72;Acidente sem VITIMA;323;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+19/06/2021;19:28:31;84;Acidente sem VITIMA;316;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+19/06/2021;23:14:39;95;Acidente sem VITIMA;414;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+20/06/2021;05:11:00;10;Acidente sem VITIMA;379;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+20/06/2021;21:06:00;100;Acidente sem VITIMA;350,41;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+20/06/2021;16:06:00;67;Acidente com VITIMA;287;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;1;0;0;1;0
+20/06/2021;18:37:26;80;Acidente sem VITIMA;261;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+20/06/2021;21:03:00;99;Acidente com VITIMA;331;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+21/06/2021;18:19:00;111;Acidente com VITIMA;341;BR-101/SC;Sul;Colisão - Traseira;0;0;0;1;0;0;0;1;0;0;1;0;1;0;0
+21/06/2021;00:32:00;4;Acidente sem VITIMA;347,8;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+21/06/2021;09:09:00;45;Acidente com VITIMA;375;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+21/06/2021;10:51:00;60;Acidente sem VITIMA;273;BR-101/SC;Sul;Choque Defensa;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+21/06/2021;13:36:00;76;Acidente sem VITIMA;323;BR-101/SC;Norte;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+22/06/2021;09:13:00;42;Acidente com VITIMA;433;BR-101/SC;Norte;Atropelamento de Animal;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+22/06/2021;09:38:00;46;Acidente sem VITIMA;256;BR-101/SC;Norte;Colisão - Lateral;3;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+22/06/2021;10:14:44;49;Acidente sem VITIMA;444;BR-101/SC;Sul;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+23/06/2021;19:50:52;120;Acidente sem VITIMA;310;BR-101/SC;Sul;Choque - Meio Fio;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+23/06/2021;19:56:00;121;Acidente sem VITIMA;366;BR-101/SC;Norte;Colisão - Traseira;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0
+23/06/2021;05:36:56;13;Acidente com VITIMA;396,5;BR-101/SC;Norte;Colisão - Frontal;0;0;0;2;0;0;0;0;0;0;0;1;1;0;0
+23/06/2021;00:31:00;3;Acidente sem VITIMA;451;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+24/06/2021;15:45:00;109;Acidente com VITIMA;350;BR-101/SC;Sul;Saída de pista;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+24/06/2021;16:26:00;115;Atropelamento Fatal;272;BR-101/SC;Norte;Atropelamento - Morador/Trabalhador/Estudante;0;0;0;0;0;0;0;0;0;1;2;0;0;0;1
+24/06/2021;19:06:00;134;Acidente sem VITIMA;361;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+24/06/2021;04:14:00;16;Acidente sem VITIMA;458;BR-101/SC;Sul;Choque Praça - Submarino;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+24/06/2021;08:03:30;41;Acidente sem VITIMA;390;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+24/06/2021;12:28:00;85;Acidente com VITIMA;336;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+25/06/2021;22:47:00;141;Acidente sem VITIMA;384;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+25/06/2021;12:46:00;72;Acidente sem VITIMA;306;BR-101/SC;Norte;Colisão - Frontal;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0
+25/06/2021;12:52:00;74;Acidente com VITIMA;416;BR-101/SC;Sul;Colisão - Frontal;1;0;0;1;0;0;0;0;0;0;0;0;2;0;0
+25/06/2021;15:27:00;95;Acidente sem VITIMA;386;BR-101/SC;Sul;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+26/06/2021;01:12:00;2;Acidente com VITIMA;308;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;1;0;0;0
+26/06/2021;10:33:00;35;Acidente com VITIMA;255;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+26/06/2021;11:41:00;42;Acidente sem VITIMA;369;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+26/06/2021;12:05:00;44;Acidente com VITIMA;276;BR-101/SC;Norte;Colisão - Transversal;4;0;0;0;0;0;0;0;0;0;4;1;0;0;0
+26/06/2021;02:29:00;5;Acidente sem VITIMA;374;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+26/06/2021;12:52:00;52;Acidente com VITIMA;323;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;1;1;0;0;0
+26/06/2021;13:18:00;56;Acidente sem VITIMA;457;BR-101/SC;Sul;Outros;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+26/06/2021;14:50:00;70;Acidente com VITIMA FATAL;281;BR-101/SC;Sul;Capotamento;1;0;0;0;0;1;0;0;0;0;1;3;0;0;1
+26/06/2021;15:08:39;75;Acidente sem VITIMA;344;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+27/06/2021;21:35:00;107;Acidente sem VITIMA;378;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+27/06/2021;23:31:00;116;Acidente com VITIMA;419;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;1;0;0;0
+27/06/2021;05:49:00;12;Acidente com VITIMA;290;BR-101/SC;Sul;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;2;1;0;0;0
+27/06/2021;07:42:00;19;Acidente com VITIMA;377;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;2;2;1;0;0
+27/06/2021;01:37:00;4;Acidente sem VITIMA;378,8;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+27/06/2021;11:07:10;47;Acidente sem VITIMA;385;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+27/06/2021;01:48:00;5;Acidente sem VITIMA;407;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+27/06/2021;15:49:31;76;Acidente sem VITIMA;453;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+27/06/2021;16:45:00;78;Acidente sem VITIMA;335;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;5;0;0;0;0
+27/06/2021;19:03:00;88;Acidente sem VITIMA;463;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+27/06/2021;03:39:00;9;Atropelamento Fatal;338;BR-101/SC;Sul;Atropelamento - Morador/Trabalhador/Estudante;1;0;0;0;0;0;0;0;0;0;2;0;0;0;1
+27/06/2021;19:45:00;94;Acidente sem VITIMA;375;BR-101/SC;Ambos;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+28/06/2021;18:53:00;117;Acidente sem VITIMA;337;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+28/06/2021;19:23:46;120;Acidente sem VITIMA;452;BR-101/SC;Sul;Saída de pista;0;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+28/06/2021;20:30:00;127;Acidente sem VITIMA;332;BR-101/SC;Norte;Queda de Carga;2;0;0;0;0;0;0;1;0;0;5;0;0;0;0
+28/06/2021;05:15:58;13;Acidente sem VITIMA;426;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+28/06/2021;22:21:51;135;Acidente sem VITIMA;257;BR-101/SC;Norte;Colisão - Lateral;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+28/06/2021;23:32:00;138;Acidente sem VITIMA;437,7;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+28/06/2021;00:13:00;2;Acidente sem VITIMA;336;BR-101/SC;Sul;Choque Barreira;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0
+28/06/2021;07:48:32;24;Acidente sem VITIMA;385;BR-101/SC;Norte;Saída de pista;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+28/06/2021;09:28:00;42;Acidente sem VITIMA;331;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+28/06/2021;12:46:00;72;Acidente sem VITIMA;374,5;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+28/06/2021;13:39:00;79;Acidente sem VITIMA;337;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+28/06/2021;01:36:00;8;Acidente sem VITIMA;373;BR-101/SC;Ambos;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+29/06/2021;23:42:21;151;Acidente sem VITIMA;259;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+29/06/2021;10:51:00;58;Acidente com VITIMA;437;BR-101/SC;Norte;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+29/06/2021;04:05:00;6;Acidente sem VITIMA;296,8;BR-101/SC;Norte;Atropelamento de Animal;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+30/06/2021;01:58:45;3;Acidente sem VITIMA;372;BR-101/SC;Norte;Tombamento;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0
+30/06/2021;08:34:00;41;Acidente sem VITIMA;407;BR-101/SC;Ambos;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+30/06/2021;09:55:00;52;Acidente sem VITIMA;324;BR-101/SC;Norte;Colisão - Transversal;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+30/06/2021;12:04:00;65;Acidente com VITIMA;424;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+30/06/2021;15:12:00;88;Acidente sem VITIMA;331;BR-101/SC;Norte;Colisão - Transversal;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+01/07/2021;21:50:00;123;Acidente sem VITIMA;281,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+01/07/2021;21:59:21;125;Acidente sem VITIMA;337,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;4;0;0;0;0
+01/07/2021;02:10:00;13;Acidente sem VITIMA;372,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+01/07/2021;07:28:00;28;Acidente sem VITIMA;401,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+01/07/2021;10:19:00;61;Acidente com VITIMA;288,000;BR-101/SC;Norte;Colisão - Transversal;0;0;0;1;0;0;0;0;0;1;1;0;1;0;0
+01/07/2021;14:07:00;88;Acidente com VITIMA;344,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;1;2;0;0;0
+01/07/2021;15:32:00;95;Acidente com VITIMA;328,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+02/07/2021;19:26:00;118;Acidente sem VITIMA;305,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+02/07/2021;22:50:00;127;Acidente com VITIMA;432,000;BR-101/SC;Sul;Capotamento;2;0;0;0;0;0;0;0;0;0;1;0;2;0;0
+02/07/2021;07:35:00;28;Acidente sem VITIMA;304,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;1;4;0;0;0;0
+02/07/2021;02:24:00;8;Acidente sem VITIMA;327,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+02/07/2021;13:39:26;82;Acidente sem VITIMA;281,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+02/07/2021;13:40:00;83;Acidente com VITIMA;436,000;BR-101/SC;Ambos;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+03/07/2021;18:08:59;116;Atropelamento;358,000;BR-101/SC;Norte;Atropelamento - Morador/Trabalhador/Estudante;0;0;0;2;0;0;0;0;0;0;2;0;0;0;0
+03/07/2021;18:26:00;118;Acidente sem VITIMA;282,000;BR-101/SC;Sul;Outros;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+03/07/2021;02:30:00;12;Acidente sem VITIMA;442,000;BR-101/SC;Norte;;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+03/07/2021;19:51:14;126;Acidente sem VITIMA;359,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+03/07/2021;20:19:00;128;Atropelamento;417,000;BR-101/SC;Sul;Atropelamento - Usuário;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0
+03/07/2021;03:23:14;16;Acidente sem VITIMA;389,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+04/07/2021;04:15:00;11;Acidente sem VITIMA;334,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+04/07/2021;21:47:00;117;Acidente com VITIMA;401,000;BR-101/SC;Norte;Colisão - Frontal;1;0;0;1;0;0;0;0;0;0;2;0;1;0;0
+04/07/2021;05:44:59;14;Acidente com VITIMA;372,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+04/07/2021;06:14:00;15;Acidente sem VITIMA;378,000;BR-101/SC;Sul;Saída de pista;2;0;0;0;0;0;0;0;0;0;5;0;0;0;0
+04/07/2021;07:05:00;23;Acidente sem VITIMA;369,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+04/07/2021;09:38:00;44;Acidente sem VITIMA;443,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+04/07/2021;01:34:00;5;Acidente com VITIMA;328,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+05/07/2021;05:18:00;25;Acidente sem VITIMA;321,000;BR-101/SC;Sul;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+05/07/2021;14:07:00;93;Acidente sem VITIMA;334,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+06/07/2021;19:04:00;101;Acidente com VITIMA;306,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+06/07/2021;21:49:00;112;Acidente com VITIMA;405,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;1;1;1;0;0
+06/07/2021;03:41:00;13;Acidente com VITIMA;441,000;BR-101/SC;Sul;;0;0;2;0;0;0;0;0;0;0;0;2;0;0;0
+06/07/2021;06:13:00;20;Acidente sem VITIMA;262,000;BR-101/SC;Norte;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+06/07/2021;15:56:00;81;Acidente sem VITIMA;327,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+07/07/2021;17:06:07;121;Acidente com VITIMA;359,000;BR-101/SC;Sul;Colisão - Frontal;1;0;0;1;0;0;0;0;0;0;1;2;0;0;0
+07/07/2021;18:24:00;129;Atropelamento;309,000;BR-101/SC;Norte;Atropelamento - Andarilho;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+07/07/2021;18:39:52;133;Atropelamento Fatal;333,000;BR-101/SC;Sul;Atropelamento - Andarilho;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1
+08/07/2021;21:29:00;133;Acidente sem VITIMA;360,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+08/07/2021;22:31:44;142;Acidente sem VITIMA;415,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+08/07/2021;00:22:07;2;Acidente sem VITIMA;394,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+09/07/2021;03:06:00;13;Acidente sem VITIMA;267,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+09/07/2021;09:26:00;61;Acidente sem VITIMA;364,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+09/07/2021;10:31:00;67;Acidente sem VITIMA;297,000;BR-101/SC;Sul;Colisão - Traseira;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0
+10/07/2021;21:31:00;124;Acidente com VITIMA;330,000;BR-101/SC;Norte;Colisão - Traseira;0;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+10/07/2021;04:22:00;14;Acidente sem VITIMA;269,000;BR-101/SC;Sul;Colisão - Lateral;1;0;1;0;0;0;0;0;0;0;3;0;0;0;0
+10/07/2021;09:22:00;47;Acidente com VITIMA FATAL;365,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+10/07/2021;10:34:00;54;Acidente sem VITIMA;334,000;BR-101/SC;Sul;Colisão - Traseira;3;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+10/07/2021;02:04:00;7;Acidente sem VITIMA;305,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;3;4;0;0;0;0
+11/07/2021;20:37:00;104;Acidente com VITIMA;411,000;BR-101/SC;Sul;Choque - Poste;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+11/07/2021;02:41:00;12;Acidente sem VITIMA;365,000;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+11/07/2021;11:34:00;50;Acidente com VITIMA;406,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+11/07/2021;12:02:00;51;Acidente com VITIMA;409,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+11/07/2021;01:20:41;7;Acidente sem VITIMA;393,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+11/07/2021;15:56:00;72;Acidente sem VITIMA;314,000;BR-101/SC;Sul;Engavetamento;10;0;0;0;0;0;0;0;0;0;26;0;0;0;0
+11/07/2021;16:00:00;73;Acidente com VITIMA;314,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;1;0;0;0
+11/07/2021;18:16:00;88;Acidente sem VITIMA;325,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+12/07/2021;14:08:00;80;Acidente sem VITIMA;269,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;4;0;0;0;0
+13/07/2021;18:42:00;105;Acidente com VITIMA;431,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;1;0;2;0;0
+13/07/2021;12:31:00;67;Acidente sem VITIMA;325,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;1;0;0;0;0;2;0;0;0;0
+13/07/2021;13:27:00;73;Acidente sem VITIMA;255,000;BR-101/SC;Sul;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+13/07/2021;14:33:00;83;Acidente sem VITIMA;354,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+13/07/2021;17:30:00;99;Acidente sem VITIMA;436,000;BR-101/SC;Norte;Colisão - Traseira;0;0;0;1;0;0;0;0;0;1;2;0;0;0;0
+14/07/2021;18:42:00;118;Acidente com VITIMA;293,000;BR-101/SC;Norte;Queda de moto;1;0;0;1;0;0;0;0;0;0;1;0;0;1;0
+14/07/2021;08:05:00;32;Acidente sem VITIMA;335,000;BR-101/SC;Sul;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+14/07/2021;10:00:00;58;Acidente com VITIMA;352,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+14/07/2021;14:28:00;85;Acidente sem VITIMA;312,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+14/07/2021;15:12:00;89;Acidente com VITIMA;430,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;1;2;0;0;0
+14/07/2021;04:10:00;9;Acidente com VITIMA;268,000;BR-101/SC;Norte;Tombamento;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0
+15/07/2021;15:43:29;107;Atropelamento;458,000;BR-101/SC;Sul;Atropelamento - Funcionário;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+15/07/2021;19:09:14;127;Acidente sem VITIMA;415,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+15/07/2021;22:37:57;143;Acidente sem VITIMA;464,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+15/07/2021;10:58:00;73;Acidente sem VITIMA;418,000;BR-101/SC;Sul;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+15/07/2021;12:12:00;82;Acidente sem VITIMA;355,000;BR-101/SC;Sul;Colisão - Frontal;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+15/07/2021;13:40:00;90;Acidente sem VITIMA;333,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+15/07/2021;14:27:00;96;Acidente sem VITIMA;333,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+16/07/2021;00:22:22;1;Acidente sem VITIMA;334,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+16/07/2021;16:33:55;101;Acidente sem VITIMA;246,000;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+16/07/2021;13:15:27;79;Acidente com VITIMA;419,000;BR-101/SC;Norte;Colisão - Transversal;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+16/07/2021;14:37:56;92;Acidente sem VITIMA;350,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+17/07/2021;17:26:07;114;Acidente sem VITIMA;344,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+17/07/2021;02:10:05;12;Acidente com VITIMA;251,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;2;0;0;0
+17/07/2021;20:06:18;126;Acidente com VITIMA;271,000;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+17/07/2021;04:20:07;19;Acidente com VITIMA;461,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+17/07/2021;05:21:20;21;Acidente sem VITIMA;264,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+17/07/2021;00:20:03;3;Acidente sem VITIMA;360,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+17/07/2021;00:56:45;7;Acidente sem VITIMA;281,000;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+17/07/2021;11:01:55;71;Acidente sem VITIMA;400,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+17/07/2021;11:14:12;72;Acidente sem VITIMA;341,000;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+17/07/2021;11:43:44;80;Acidente com VITIMA;325,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;1;3;1;0;0;0
+18/07/2021;20:19:53;105;Acidente sem VITIMA;411,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;0;5;0;0;0;0
+18/07/2021;19:01:09;95;Acidente sem VITIMA;321,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+19/07/2021;17:10:05;107;Acidente sem VITIMA;363,000;BR-101/SC;Sul;;0;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+19/07/2021;08:05:40;28;Acidente com VITIMA;440,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;2;1;0;0;0
+19/07/2021;14:38:01;87;Acidente sem VITIMA;350,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+19/07/2021;04:00:16;9;Acidente sem VITIMA;349,000;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+20/07/2021;06:53:59;22;Acidente com VITIMA;280,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+21/07/2021;09:44:54;49;Acidente sem VITIMA;335,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+22/07/2021;18:35:51;101;Acidente sem VITIMA;326,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+23/07/2021;14:49:55;102;Acidente sem VITIMA;260,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+23/07/2021;16:39:19;113;Acidente com VITIMA;338,000;BR-101/SC;Sul;Capotamento;2;0;0;0;0;0;0;0;0;0;0;5;1;0;0
+23/07/2021;18:38:20;129;Acidente com VITIMA;325,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+23/07/2021;18:39:44;130;Acidente sem VITIMA;339,000;BR-101/SC;Norte;Colisão - Frontal;0;0;0;2;0;0;0;0;0;0;0;2;0;0;0
+23/07/2021;22:08:53;157;Acidente sem VITIMA;435,000;BR-101/SC;Ambos;Colisão - Lateral;1;0;1;0;0;0;0;0;0;0;3;0;0;0;0
+23/07/2021;23:08:32;166;Acidente sem VITIMA;464,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+23/07/2021;12:49:22;85;Acidente com VITIMA;410,000;BR-101/SC;Norte;Tombamento;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0
+23/07/2021;14:15:51;98;Acidente sem VITIMA;364,000;BR-101/SC;Norte;Choque com objeto sobre a pista;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+24/07/2021;19:28:44;103;Acidente com VITIMA;330,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;1;0;0;0
+24/07/2021;23:03:24;120;Acidente com VITIMA;290,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;3;0;0;0
+24/07/2021;23:11:23;122;Acidente com VITIMA;331,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;3;0;0;0
+24/07/2021;08:28:53;24;Acidente sem VITIMA;334,000;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+24/07/2021;15:00:11;83;Acidente sem VITIMA;286,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+25/07/2021;04:17:46;12;Acidente sem VITIMA;381,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+25/07/2021;20:38:13;121;Acidente sem VITIMA;306,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+25/07/2021;20:52:13;123;Acidente com VITIMA;346,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;2;2;0;0;0
+25/07/2021;21:28:54;128;Acidente sem VITIMA;415,000;BR-101/SC;Sul;Choque Defensa;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+25/07/2021;08:09:36;26;Acidente com VITIMA;322,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+25/07/2021;15:57:00;78;Acidente sem VITIMA;321,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;6;0;0;0;0
+25/07/2021;03:51:10;9;Acidente sem VITIMA;321,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+26/07/2021;17:00:05;106;Acidente sem VITIMA;319,000;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+26/07/2021;17:01:31;107;Acidente com VITIMA;367,000;BR-101/SC;Ambos;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+26/07/2021;00:27:51;2;Acidente sem VITIMA;426,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;3;0;0;0;0
+26/07/2021;12:16:56;75;Acidente com VITIMA;336,000;BR-101/SC;Norte;Colisão - Lateral;0;0;0;2;0;0;0;0;0;0;0;2;0;0;0
+27/07/2021;12:12:51;62;Acidente com VITIMA;425,000;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+27/07/2021;14:13:15;73;Acidente sem VITIMA;331,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+28/07/2021;20:12:54;147;Acidente sem VITIMA;269,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+28/07/2021;07:10:09;27;Acidente sem VITIMA;245,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+28/07/2021;08:02:04;43;Acidente sem VITIMA;437,000;BR-101/SC;Sul;Outros;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+28/07/2021;08:09:31;46;Acidente com VITIMA;428,000;BR-101/SC;Norte;Colisão - Transversal;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+28/07/2021;08:15:01;47;Acidente com VITIMA;382,000;BR-101/SC;Sul;Colisão - Traseira;1;0;1;0;0;0;0;0;0;0;1;1;0;0;0
+28/07/2021;02:04:02;9;Acidente sem VITIMA;293,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+29/07/2021;16:16:12;101;Acidente sem VITIMA;434,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+29/07/2021;19:11:05;123;Acidente com VITIMA;345,000;BR-101/SC;Sul;Capotamento;2;0;0;0;0;0;0;0;0;0;2;1;0;0;0
+30/07/2021;19:51:00;136;Acidente sem VITIMA;339,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+30/07/2021;20:58:18;144;Acidente com VITIMA;414,000;BR-101/SC;Norte;Colisão - Frontal;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+30/07/2021;10:12:12;76;Acidente sem VITIMA;267,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+31/07/2021;17:11:39;102;Acidente sem VITIMA;385,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+31/07/2021;17:24:20;104;Acidente com VITIMA;399,000;BR-101/SC;Norte;Colisão - Transversal;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+31/07/2021;17:52:22;109;Acidente com VITIMA;333,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;1;0;0;0
+31/07/2021;19:33:02;116;Acidente com VITIMA;450,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;1;0;0;0
+31/07/2021;04:27:04;12;Acidente sem VITIMA;437,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+31/07/2021;22:17:19;130;Acidente sem VITIMA;273,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+31/07/2021;08:47:36;29;Acidente sem VITIMA;344,500;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+31/07/2021;11:18:46;51;Acidente sem VITIMA;396,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;6;0;0;0;0
+31/07/2021;02:34:05;8;Acidente sem VITIMA;405,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+31/07/2021;15:13:08;82;Acidente com VITIMA FATAL;289,000;BR-101/SC;Norte;Colisão - Traseira;0;0;0;2;0;0;0;0;0;0;0;1;1;0;1
+01/08/2021;06:11:53;18;Acidente sem VITIMA;390,000;BR-101/SC;Sul;Atropelamento de Animal;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+01/08/2021;11:14:49;51;Acidente com VITIMA;374,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+01/08/2021;15:07:58;65;Acidente sem VITIMA;356,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;5;0;0;0;0
+01/08/2021;16:57:11;75;Acidente sem VITIMA;308,000;BR-101/SC;Sul;Outros;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+01/08/2021;20:41:04;94;Acidente sem VITIMA;364,580;BR-101/SC;Sul;Outros;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+02/08/2021;21:23:12;133;Acidente sem VITIMA;331,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+02/08/2021;22:01:38;135;Acidente com VITIMA;277,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;2;1;0;0;0
+02/08/2021;23:02:43;140;Acidente sem VITIMA;276,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+02/08/2021;01:49:08;2;Acidente com VITIMA;337,500;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;3;0;1;0;0
+02/08/2021;07:55:18;32;Acidente sem VITIMA;341,000;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+03/08/2021;17:25:26;116;Acidente sem VITIMA;349,000;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+03/08/2021;19:08:10;123;Acidente sem VITIMA;352,200;BR-101/SC;Norte;Colisão - Traseira;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0
+03/08/2021;23:40:22;136;Acidente sem VITIMA;464,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+03/08/2021;10:51:05;71;Acidente sem VITIMA;335,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+03/08/2021;12:40:07;82;Acidente com VITIMA;361,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+04/08/2021;12:59:17;100;Acidente sem VITIMA;282,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+04/08/2021;13:37:01;105;Acidente sem VITIMA;272,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+04/08/2021;16:10:32;130;Acidente com VITIMA;277,000;BR-101/SC;Norte;Colisão - Transversal;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+04/08/2021;22:05:18;164;Acidente com VITIMA;282,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+05/08/2021;04:55:09;18;Acidente sem VITIMA;311,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+05/08/2021;05:10:14;19;Acidente sem VITIMA;311,000;BR-101/SC;Norte;Colisão - Lateral;1;0;1;0;0;0;0;0;0;0;3;0;0;0;0
+05/08/2021;07:53:15;36;Acidente sem VITIMA;358,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+05/08/2021;00:19:50;5;Acidente sem VITIMA;360,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+05/08/2021;09:41:32;57;Acidente sem VITIMA;257,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+05/08/2021;15:04:30;99;Acidente sem VITIMA;311,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+06/08/2021;14:37:17;124;Acidente com VITIMA;353,000;BR-101/SC;Norte;Colisão - Lateral;0;0;0;1;0;0;0;0;0;1;1;2;0;0;0
+06/08/2021;15:24:58;130;Acidente sem VITIMA;298,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+06/08/2021;18:00:22;151;Acidente com VITIMA;330,000;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+06/08/2021;18:16:04;152;Acidente com VITIMA;331,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;1;0;0;0
+06/08/2021;18:35:39;156;Acidente sem VITIMA;329,000;BR-101/SC;Norte;Engavetamento;5;0;0;0;0;0;0;0;0;0;5;0;0;0;0
+06/08/2021;04:39:20;17;Acidente com VITIMA;342,000;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+06/08/2021;21:03:42;179;Acidente sem VITIMA;333,000;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+06/08/2021;21:20:09;182;Acidente com VITIMA;333,000;BR-101/SC;Norte;Colisão - Traseira;0;0;0;1;0;0;0;0;0;1;1;1;0;0;0
+06/08/2021;04:52:17;19;Acidente sem VITIMA;303,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+06/08/2021;22:44:00;190;Acidente sem VITIMA;272,000;BR-101/SC;Sul;Tombamento;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+06/08/2021;23:58:28;196;Acidente sem VITIMA;250,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+06/08/2021;06:50:53;26;Acidente sem VITIMA;424,000;BR-101/SC;Sul;Saída de pista;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+06/08/2021;10:56:54;76;Acidente sem VITIMA;336,000;BR-101/SC;Sul;Queda de moto;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+07/08/2021;19:18:32;103;Acidente com VITIMA;319,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+07/08/2021;19:22:22;104;Acidente sem VITIMA;273,000;BR-101/SC;Norte;Choque com objeto sobre a pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+07/08/2021;21:54:10;120;Acidente sem VITIMA;324,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+07/08/2021;02:57:46;17;Acidente sem VITIMA;368,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+07/08/2021;07:59:37;41;Acidente sem VITIMA;331,000;BR-101/SC;Norte;Colisão - Lateral;4;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+07/08/2021;09:41:36;53;Acidente sem VITIMA;280,000;BR-101/SC;Sul;Colisão - Lateral;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0
+07/08/2021;10:02:08;55;Acidente com VITIMA;453,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;1;0;0
+07/08/2021;10:33:05;57;Acidente sem VITIMA;280,310;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;5;0;0;0;0
+07/08/2021;01:41:02;6;Acidente sem VITIMA;389,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+07/08/2021;14:25:42;75;Acidente com VITIMA;335,800;BR-101/SC;Norte;Tombamento;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0
+07/08/2021;14:38:52;76;Acidente sem VITIMA;438,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+07/08/2021;16:44:43;92;Acidente sem VITIMA;280,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+07/08/2021;16:54:11;93;Acidente sem VITIMA;379,000;BR-101/SC;Sul;Colisão - Traseira;1;0;1;0;0;0;0;0;0;0;5;0;0;0;0
+08/08/2021;19:58:17;104;Acidente sem VITIMA;463,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;7;0;0;0;0
+08/08/2021;20:00:15;105;Acidente sem VITIMA;394,000;BR-101/SC;Sul;Colisão - Frontal;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+08/08/2021;21:15:35;113;Acidente sem VITIMA;435,000;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+08/08/2021;11:07:32;48;Acidente com VITIMA;392,000;BR-101/SC;Ambos;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+08/08/2021;01:54:42;6;Acidente com VITIMA;434,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;1;0;0
+08/08/2021;13:50:14;61;Atropelamento Fatal;302,000;BR-101/SC;Norte;Atropelamento - Suicida;0;0;1;0;0;0;0;0;0;0;1;0;0;0;1
+08/08/2021;02:26:09;8;Acidente com VITIMA;397,000;BR-101/SC;Sul;Colisão - Traseira;1;0;1;0;0;0;0;0;0;0;2;0;1;0;0
+08/08/2021;18:21:53;89;Acidente sem VITIMA;344,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+09/08/2021;18:02:46;138;Acidente sem VITIMA;327,000;BR-101/SC;Sul;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+09/08/2021;22:14:25;164;Acidente sem VITIMA;331,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;9;0;0;0;0
+09/08/2021;09:31:01;58;Acidente com VITIMA;368,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;1;1;1;0;0;0
+09/08/2021;11:53:08;85;Acidente sem VITIMA;281,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+10/08/2021;05:58:43;15;Acidente sem VITIMA;347,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+10/08/2021;16:00:54;158;Acidente sem VITIMA;405,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+10/08/2021;17:57:58;171;Acidente com VITIMA;323,000;BR-101/SC;Norte;;1;0;0;0;0;0;0;0;0;1;1;1;0;0;0
+10/08/2021;18:25:41;174;Acidente com VITIMA;304,000;BR-101/SC;Sul;Tombamento;2;0;0;1;0;0;0;0;0;0;2;2;0;0;0
+10/08/2021;18:29:23;177;Acidente sem VITIMA;443,000;BR-101/SC;Sul;Colisão - Traseira;3;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+10/08/2021;19:43:05;181;Acidente sem VITIMA;371,000;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+10/08/2021;20:14:37;187;Acidente com VITIMA;449,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+10/08/2021;22:59:39;193;Acidente sem VITIMA;316,000;BR-101/SC;Norte;Capotamento;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+11/08/2021;18:33:27;126;Acidente sem VITIMA;438,000;BR-101/SC;Sul;Saída de pista;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+11/08/2021;19:27:15;131;Acidente sem VITIMA;464,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+11/08/2021;22:05:24;143;Acidente sem VITIMA;271,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+11/08/2021;08:19:03;41;Acidente sem VITIMA;361,000;BR-101/SC;Norte;Choque Barreira;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+11/08/2021;10:02:20;65;Acidente sem VITIMA;330,000;BR-101/SC;Norte;Outros;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+12/08/2021;22:49:07;144;Acidente sem VITIMA;316,000;BR-101/SC;Norte;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+12/08/2021;05:26:00;15;Acidente com VITIMA;266,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+13/08/2021;22:23:33;105;Acidente sem VITIMA;256,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+13/08/2021;08:20:25;33;Acidente com VITIMA;456,000;BR-101/SC;Sul;Queda de moto;1;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+13/08/2021;17:33:53;79;Acidente sem VITIMA;346,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+13/08/2021;20:40:53;96;Acidente sem VITIMA;368,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;0;6;0;0;0;0
+14/08/2021;06:34:44;13;Acidente com VITIMA;280,000;BR-101/SC;Sul;Choque - Poste;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+14/08/2021;02:49:40;3;Acidente sem VITIMA;397,000;BR-101/SC;Norte;;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+14/08/2021;09:09:13;31;Acidente sem VITIMA;429,000;BR-101/SC;Norte;Outros;1;0;1;0;0;0;0;0;0;0;3;0;0;0;0
+15/08/2021;00:45:02;3;Acidente sem VITIMA;308,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+15/08/2021;17:59:33;86;Acidente sem VITIMA;298,000;BR-101/SC;Norte;Colisão - Traseira;3;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+15/08/2021;20:38:46;99;Acidente com VITIMA;283,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+16/08/2021;17:40:30;146;Acidente sem VITIMA;360,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+17/08/2021;23:16:57;135;Acidente sem VITIMA;376,000;BR-101/SC;Sul;Saída de pista;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+18/08/2021;19:57:36;132;Acidente sem VITIMA;327,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+18/08/2021;23:34:14;144;Acidente sem VITIMA;348,000;BR-101/SC;Sul;Choque - Caixa de Captação/Fibra;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+18/08/2021;08:40:32;46;Acidente sem VITIMA;394,000;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+18/08/2021;12:00:57;82;Acidente sem VITIMA;422,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+19/08/2021;14:41:31;107;Acidente com VITIMA;289,000;BR-101/SC;Norte;Colisão - Lateral;1;0;1;0;0;0;0;0;0;0;3;1;0;0;0
+19/08/2021;17:21:42;134;Acidente sem VITIMA;328,000;BR-101/SC;Norte;Colisão - Transversal;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+19/08/2021;19:44:31;141;Acidente sem VITIMA;334,000;BR-101/SC;Sul;Choque Barreira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+19/08/2021;22:29:15;157;Acidente sem VITIMA;343,000;BR-101/SC;Sul;Choque com veículo na faixa de rolamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+19/08/2021;00:10:23;2;Acidente sem VITIMA;366,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+19/08/2021;07:59:33;38;Acidente sem VITIMA;415,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+19/08/2021;11:07:04;72;Acidente sem VITIMA;464,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+20/08/2021;14:01:29;125;Acidente sem VITIMA;360,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;3;0;0;0;0
+20/08/2021;11:33:43;98;Acidente com VITIMA;359,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;1;0;0;2;2;0;0;0
+21/08/2021;08:46:35;39;Acidente com VITIMA;362,000;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+21/08/2021;13:53:53;69;Acidente sem VITIMA;318,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+21/08/2021;03:41:58;9;Acidente sem VITIMA;335,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+22/08/2021;22:20:04;131;Acidente sem VITIMA;347,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+22/08/2021;23:06:27;134;Acidente sem VITIMA;438,000;BR-101/SC;Sul;Choque - Sinalização;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+22/08/2021;04:01:17;14;Acidente sem VITIMA;420,000;BR-101/SC;Sul;Choque Defensa;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+22/08/2021;14:57:12;75;Acidente com VITIMA;337,000;BR-101/SC;Ambos;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;0;0;2;0;0
+22/08/2021;16:37:53;87;Acidente sem VITIMA;418,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;5;0;0;0;0
+22/08/2021;17:06:37;90;Acidente sem VITIMA;355,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+23/08/2021;19:45:55;114;Acidente com VITIMA;387,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+23/08/2021;21:47:06;124;Acidente sem VITIMA;259,000;BR-101/SC;Norte;Colisão - Traseira;0;0;1;0;0;0;0;1;0;0;2;0;0;0;0
+23/08/2021;00:06:36;2;Acidente sem VITIMA;416,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+23/08/2021;09:17:03;49;Acidente sem VITIMA;323,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+24/08/2021;18:15:53;123;Acidente com VITIMA;305,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+24/08/2021;19:24:28;129;Acidente com VITIMA;314,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+24/08/2021;02:30:10;9;Acidente sem VITIMA;417,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+25/08/2021;17:32:10;118;Acidente sem VITIMA;392,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+25/08/2021;08:43:38;46;Acidente com VITIMA;291,000;BR-101/SC;Norte;Colisão - Traseira;0;0;0;2;0;0;0;0;0;0;0;2;0;0;0
+25/08/2021;10:55:55;68;Acidente com VITIMA;257,000;BR-101/SC;Sul;Colisão - Lateral;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+25/08/2021;11:14:41;72;Acidente sem VITIMA;332,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+26/08/2021;19:56:46;134;Acidente com VITIMA;269,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+26/08/2021;12:02:11;77;Acidente sem VITIMA;346,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+27/08/2021;15:08:24;111;Acidente com VITIMA;369,000;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+27/08/2021;04:36:54;12;Acidente sem VITIMA;360,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+27/08/2021;00:32:03;3;Acidente sem VITIMA;270,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+28/08/2021;02:47:04;13;Acidente sem VITIMA;373,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+28/08/2021;13:21:14;65;Acidente com VITIMA;365,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;0;3;0;0
+29/08/2021;04:24:10;10;Acidente sem VITIMA;330,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+29/08/2021;06:20:37;16;Acidente sem VITIMA;394,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+29/08/2021;07:08:09;20;Acidente sem VITIMA;375,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+29/08/2021;08:55:46;31;Atropelamento;313,000;BR-101/SC;Norte;Atropelamento - Usuário;0;0;1;1;0;0;0;0;0;0;1;1;0;0;0
+29/08/2021;09:20:42;35;Acidente sem VITIMA;374,000;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+29/08/2021;01:30:18;4;Acidente sem VITIMA;280,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+29/08/2021;17:21:13;69;Acidente sem VITIMA;457,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+29/08/2021;19:10:17;78;Acidente sem VITIMA;378,900;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+29/08/2021;04:03:25;8;Acidente sem VITIMA;312,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+29/08/2021;20:53:42;89;Acidente sem VITIMA;338,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+30/08/2021;07:51:04;36;Acidente sem VITIMA;411,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+30/08/2021;08:01:40;41;Acidente com VITIMA;436,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;0;1;1;0;0
+30/08/2021;12:20:15;82;Acidente sem VITIMA;342,000;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+30/08/2021;13:12:55;85;Acidente sem VITIMA;342,000;BR-101/SC;Sul;Colisão - Frontal;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+30/08/2021;13:37:37;89;Acidente com VITIMA;356,000;BR-101/SC;Norte;Choque - Meio Fio;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+30/08/2021;13:41:37;91;Acidente com VITIMA;308,000;BR-101/SC;Sul;Choque - Meio Fio;0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+30/08/2021;13:51:01;94;Acidente sem VITIMA;437,000;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+31/08/2021;02:06:20;10;Acidente sem VITIMA;260,000;BR-101/SC;Sul;Colisão - Traseira;3;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+31/08/2021;16:29:42;110;Acidente sem VITIMA;298,000;BR-101/SC;Sul;Colisão - Traseira;3;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+31/08/2021;19:05:12;129;Atropelamento;439,000;BR-101/SC;Sul;Atropelamento - Usuário;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+31/08/2021;11:37:35;81;Acidente com VITIMA;271,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+01/09/2021;07:00:17;36;Acidente com VITIMA;358,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;1;2;2;0;0;0
+01/09/2021;07:06:46;37;Acidente com VITIMA;310,000;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;1;1;0;1;0;0
+01/09/2021;16:16:54;142;Acidente com VITIMA;312,000;BR-101/SC;Norte;Colisão - Frontal;2;0;0;0;0;0;0;0;0;0;11;1;0;0;0
+02/09/2021;00:18:10;2;Acidente com VITIMA;366,000;BR-101/SC;Sul;Colisão - Traseira;0;0;1;0;0;0;0;1;0;0;0;1;1;0;0
+02/09/2021;16:54:52;132;Acidente sem VITIMA;405,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+02/09/2021;19:30:37;153;Acidente com VITIMA;435,000;BR-101/SC;Norte;Colisão - Frontal;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+02/09/2021;19:41:43;155;Acidente com VITIMA;364,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+02/09/2021;20:25:52;159;Acidente sem VITIMA;438,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+03/09/2021;09:50:06;62;Acidente com VITIMA;344,000;BR-101/SC;Norte;Colisão - Traseira;3;0;0;0;0;0;0;0;0;0;3;1;0;0;0
+03/09/2021;13:17:39;94;Acidente sem VITIMA;464,000;BR-101/SC;Sul;Tombamento;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+03/09/2021;17:17:00;115;Acidente sem VITIMA;332,000;BR-101/SC;Sul;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+03/09/2021;20:09:26;150;Acidente com VITIMA;362,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;5;1;0;0;0
+03/09/2021;21:44:56;161;Acidente com VITIMA;344,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+04/09/2021;01:56:33;11;Acidente com VITIMA;331,000;BR-101/SC;Sul;Colisão - Traseira;0;0;0;2;0;0;0;0;0;0;1;1;1;0;0
+04/09/2021;05:04:15;25;Acidente sem VITIMA;292,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+04/09/2021;09:33:13;44;Acidente com VITIMA;324,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+04/09/2021;13:13:10;73;Acidente sem VITIMA;360,000;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+04/09/2021;18:27:08;108;Acidente sem VITIMA;359,000;BR-101/SC;Sul;Saída de pista;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+04/09/2021;18:52:12;111;Acidente com VITIMA;356,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;0;0;1;0
+04/09/2021;19:43:54;118;Acidente sem VITIMA;451,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+04/09/2021;21:39:24;127;Acidente com VITIMA;329,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+05/09/2021;01:15:55;2;Acidente sem VITIMA;343,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+05/09/2021;01:37:58;5;Acidente sem VITIMA;341,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+05/09/2021;02:27:09;6;Acidente sem VITIMA;303,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+05/09/2021;05:26:34;13;Acidente sem VITIMA;313,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+05/09/2021;05:32:07;14;Acidente sem VITIMA;308,000;BR-101/SC;Norte;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+05/09/2021;10:51:16;42;Acidente sem VITIMA;256,000;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;5;0;0;0;0
+05/09/2021;11:40:35;47;Acidente sem VITIMA;298,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+05/09/2021;14:57:04;73;Acidente com VITIMA;331,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+05/09/2021;17:09:17;86;Acidente sem VITIMA;410,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+05/09/2021;22:56:07;116;Acidente sem VITIMA;437,000;BR-101/SC;Sul;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+05/09/2021;23:39:21;120;Acidente com VITIMA;418,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;1;0;0;0;0;0;0;3;0;0;1;0
+06/09/2021;01:10:59;6;Acidente com VITIMA;282,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+06/09/2021;01:34:40;7;Acidente sem VITIMA;247,000;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+06/09/2021;08:27:49;41;Acidente sem VITIMA;334,000;BR-101/SC;Norte;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+06/09/2021;11:40:03;64;Acidente com VITIMA;434,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+06/09/2021;15:35:29;88;Acidente sem VITIMA;247,000;BR-101/SC;Norte;Colisão - Traseira;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0
+06/09/2021;19:12:52;112;Acidente com VITIMA;341,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+06/09/2021;19:27:54;114;Acidente com VITIMA;417,000;BR-101/SC;Norte;Colisão - Frontal;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+07/09/2021;01:22:50;5;Acidente sem VITIMA;308,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+07/09/2021;05:32:31;13;Acidente com VITIMA;356,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+07/09/2021;06:30:38;15;Acidente sem VITIMA;337,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+07/09/2021;11:50:49;36;Acidente sem VITIMA;381,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+07/09/2021;12:22:19;37;Acidente sem VITIMA;336,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+07/09/2021;12:43:38;39;Acidente sem VITIMA;336,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+07/09/2021;14:49:57;44;Acidente sem VITIMA;305,000;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+07/09/2021;16:25:41;47;Acidente com VITIMA;381,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;1;0;0;0
+07/09/2021;16:57:29;52;Acidente sem VITIMA;367,000;BR-101/SC;Sul;Choque Defensa;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+07/09/2021;17:35:31;53;Acidente sem VITIMA;414,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+07/09/2021;17:43:08;54;Acidente com VITIMA;307,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+07/09/2021;18:38:08;57;Acidente sem VITIMA;423,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+07/09/2021;21:58:50;71;Acidente com VITIMA;260,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+08/09/2021;05:38:20;7;Atropelamento;250,000;BR-101/SC;Norte;;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+08/09/2021;16:31:59;75;Acidente sem VITIMA;294,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+08/09/2021;20:40:46;101;Acidente sem VITIMA;434,000;BR-101/SC;Sul;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+08/09/2021;22:01:50;104;Acidente sem VITIMA;280,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+09/09/2021;12:06:17;64;Atropelamento Fatal;411,000;BR-101/SC;Norte;Atropelamento - Usuário;1;0;0;0;0;0;0;0;0;0;2;0;0;0;1
+09/09/2021;12:58:33;70;Acidente sem VITIMA;352,000;BR-101/SC;Ambos;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;3;0;0;0;0
+09/09/2021;13:41:28;80;Acidente com VITIMA;253,000;BR-101/SC;Norte;Colisão - Transversal;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+09/09/2021;14:30:08;85;Acidente sem VITIMA;458,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+09/09/2021;18:51:37;109;Acidente sem VITIMA;445,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+10/09/2021;02:48:23;11;Acidente sem VITIMA;396,000;BR-101/SC;Sul;Choque Defensa;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+10/09/2021;08:17:46;36;Acidente sem VITIMA;335,000;BR-101/SC;Sul;Outros;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+10/09/2021;08:51:12;44;Acidente sem VITIMA;338,000;BR-101/SC;Norte;Choque com objeto sobre a pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+10/09/2021;09:46:24;51;Acidente sem VITIMA;275,000;BR-101/SC;Sul;Choque com objeto sobre a pista;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0
+11/09/2021;05:08:41;17;Acidente sem VITIMA;381,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+11/09/2021;13:19:45;71;Acidente sem VITIMA;269,950;BR-101/SC;Sul;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+11/09/2021;15:52:59;85;Acidente sem VITIMA;346,000;BR-101/SC;Norte;Saída de pista;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+11/09/2021;16:56:38;89;Acidente sem VITIMA;327,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+11/09/2021;18:09:29;94;Acidente sem VITIMA;257,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+11/09/2021;21:37:07;110;Acidente sem VITIMA;351,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+12/09/2021;05:55:40;14;Acidente sem VITIMA;377,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+12/09/2021;16:37:56;80;Acidente com VITIMA;414,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;3;0;0
+13/09/2021;07:28:06;29;Acidente com VITIMA;344,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;1;1;0;0;0
+13/09/2021;19:37:43;152;Acidente sem VITIMA;412,000;BR-101/SC;Norte;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+13/09/2021;23:20:23;170;Acidente sem VITIMA;405,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;5;0;0;0;0
+14/09/2021;02:42:43;5;Acidente sem VITIMA;343,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+14/09/2021;10:01:42;49;Acidente sem VITIMA;359,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;1;0;0;0
+14/09/2021;11:06:15;55;Acidente com VITIMA;401,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+15/09/2021;01:46:13;5;Acidente com VITIMA;381,300;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+15/09/2021;02:20:38;7;Acidente sem VITIMA;437,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+15/09/2021;03:27:01;10;Acidente sem VITIMA;348,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+15/09/2021;08:26:45;37;Acidente sem VITIMA;296,000;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+15/09/2021;14:49:57;98;Acidente sem VITIMA;245,000;BR-101/SC;Norte;Colisão - Lateral;1;0;1;0;0;0;0;0;0;0;2;0;0;0;0
+15/09/2021;23:58:29;142;Acidente sem VITIMA;383,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+16/09/2021;05:24:18;19;Acidente sem VITIMA;442,000;BR-101/SC;Norte;Colisão - Lateral;0;0;0;0;0;0;0;1;0;1;3;0;0;0;0
+16/09/2021;06:19:42;22;Acidente com VITIMA;411,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+16/09/2021;13:25:46;93;Acidente sem VITIMA;335,000;BR-101/SC;Sul;Outros;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+16/09/2021;16:57:44;117;Acidente sem VITIMA;258,800;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+16/09/2021;18:59:13;124;Acidente sem VITIMA;403,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+17/09/2021;07:03:31;12;Acidente sem VITIMA;264,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+17/09/2021;09:38:54;47;Acidente sem VITIMA;353,000;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+17/09/2021;09:38:15;48;Acidente sem VITIMA;331,000;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+17/09/2021;12:31:17;65;Acidente sem VITIMA;350,000;BR-101/SC;Sul;Choque - Poste;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+17/09/2021;15:31:39;85;Acidente sem VITIMA;271,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+17/09/2021;16:41:23;91;Acidente sem VITIMA;335,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+17/09/2021;17:50:46;97;Acidente sem VITIMA;252,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+17/09/2021;18:00:21;98;Acidente sem VITIMA;332,000;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+17/09/2021;18:40:05;108;Acidente sem VITIMA;351,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+17/09/2021;21:30:25;126;Acidente sem VITIMA;464,000;BR-101/SC;Norte;;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+17/09/2021;23:13:47;132;Acidente sem VITIMA;403,000;BR-101/SC;Norte;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+18/09/2021;00:30:27;3;Acidente sem VITIMA;399,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+18/09/2021;07:14:07;25;Acidente sem VITIMA;346,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;1;0;0;6;0;0;0;0
+18/09/2021;08:57:11;32;Acidente sem VITIMA;459,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;7;0;0;0;0
+18/09/2021;12:42:19;49;Acidente sem VITIMA;429,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+18/09/2021;22:32:14;90;Acidente sem VITIMA;273,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+18/09/2021;23:32:38;93;Acidente com VITIMA;292,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+19/09/2021;01:34:48;5;Acidente sem VITIMA;365,350;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+19/09/2021;02:44:10;11;Acidente sem VITIMA;404,000;BR-101/SC;Sul;;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+19/09/2021;02:11:19;15;Acidente sem VITIMA;308,000;BR-101/SC;Norte;Colisão - Traseira;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+19/09/2021;03:07:28;16;Acidente sem VITIMA;358,520;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+19/09/2021;11:00:52;51;Acidente sem VITIMA;293,000;BR-101/SC;Sul;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+19/09/2021;11:09:25;52;Acidente com VITIMA;393,000;BR-101/SC;Norte;;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+19/09/2021;15:15:12;73;Acidente sem VITIMA;379,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+19/09/2021;19:16:57;93;Acidente sem VITIMA;328,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+19/09/2021;22:02:04;110;Acidente sem VITIMA;407,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+20/09/2021;00:27:01;2;Acidente com VITIMA;434,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;2;0;0;0
+20/09/2021;09:07:58;48;Acidente com VITIMA;366,700;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;1;4;0;0;0
+20/09/2021;12:35:38;88;Acidente sem VITIMA;298,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+20/09/2021;12:36:01;89;Acidente sem VITIMA;328,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+20/09/2021;12:56:40;90;Acidente com VITIMA;328,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;1;0;0;0
+20/09/2021;15:07:20;109;Acidente sem VITIMA;331,000;BR-101/SC;Sul;Colisão - Traseira;3;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+20/09/2021;15:09:47;110;Acidente sem VITIMA;336,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+20/09/2021;16:07:34;118;Acidente sem VITIMA;334,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+20/09/2021;16:47:15;123;Acidente sem VITIMA;336,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+20/09/2021;17:52:08;129;Acidente sem VITIMA;400,000;BR-101/SC;Sul;Engavetamento;3;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+20/09/2021;18:14:54;133;Acidente sem VITIMA;336,000;BR-101/SC;Sul;Engavetamento;5;0;0;0;0;0;0;0;0;0;13;0;0;0;0
+20/09/2021;21:48:43;155;Acidente sem VITIMA;387,500;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+21/09/2021;07:47:20;26;Acidente sem VITIMA;278,000;BR-101/SC;Sul;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+22/09/2021;12:17:54;76;Acidente sem VITIMA;255,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;3;0;0;0;0
+22/09/2021;18:53:49;124;Acidente sem VITIMA;464,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+22/09/2021;20:10:04;140;Acidente sem VITIMA;352,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+22/09/2021;22:18:11;157;Acidente sem VITIMA;406,300;BR-101/SC;Norte;Colisão - Traseira;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+22/09/2021;22:27:08;159;Acidente sem VITIMA;408,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+22/09/2021;23:18:32;164;Acidente sem VITIMA;359,000;BR-101/SC;Norte;Colisão - Frontal;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+23/09/2021;01:09:44;6;Acidente sem VITIMA;345,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+23/09/2021;01:42:18;10;Acidente sem VITIMA;360,000;BR-101/SC;Sul;Colisão - Traseira;0;0;0;0;0;0;0;2;0;0;3;0;0;0;0
+23/09/2021;07:45:03;44;Acidente sem VITIMA;277,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+23/09/2021;11:49:51;91;Acidente sem VITIMA;404,000;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+23/09/2021;14:28:58;116;Acidente com VITIMA;445,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+23/09/2021;19:04:43;156;Acidente sem VITIMA;451,000;BR-101/SC;Norte;Choque com objeto sobre a pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+24/09/2021;00:58:07;2;Acidente sem VITIMA;257,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+24/09/2021;12:03:06;81;Acidente sem VITIMA;334,000;BR-101/SC;Ambos;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+24/09/2021;16:41:23;115;Acidente sem VITIMA;340,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+24/09/2021;19:53:12;140;Acidente sem VITIMA;264,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+24/09/2021;21:57:58;162;Acidente sem VITIMA;375,000;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+25/09/2021;01:23:18;8;Acidente sem VITIMA;374,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+25/09/2021;02:40:48;13;Acidente sem VITIMA;407,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+25/09/2021;03:36:00;14;Acidente com VITIMA;277,000;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+25/09/2021;03:46:01;15;Acidente sem VITIMA;359,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+25/09/2021;03:47:08;16;Acidente com VITIMA;366,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;1;0;0;0;0;0;0;2;2;0;0;0
+25/09/2021;05:47:28;21;Acidente sem VITIMA;374,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+25/09/2021;09:19:04;42;Acidente com VITIMA;287,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;3;1;0;0;0
+25/09/2021;14:10:46;80;Acidente com VITIMA;277,000;BR-101/SC;Sul;Colisão - Transversal;1;0;0;1;0;0;0;0;0;0;1;0;0;1;0
+25/09/2021;19:13:53;106;Acidente com VITIMA;384,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+25/09/2021;19:23:45;108;Acidente com VITIMA;344,000;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+25/09/2021;23:53:22;126;Acidente sem VITIMA;403,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+26/09/2021;04:35:37;8;Acidente sem VITIMA;451,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+26/09/2021;11:28:18;41;Acidente sem VITIMA;333,000;BR-101/SC;Ambos;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+26/09/2021;11:33:56;42;Acidente sem VITIMA;333,000;BR-101/SC;Norte;Colisão - Frontal;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+26/09/2021;19:13:05;90;Acidente com VITIMA;318,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;6;0;1;0;0
+26/09/2021;20:25:00;97;Acidente com VITIMA;378,000;BR-101/SC;Sul;Saída de pista;2;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+26/09/2021;21:43:42;111;Acidente sem VITIMA;279,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+27/09/2021;04:09:37;11;Acidente sem VITIMA;320,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+27/09/2021;07:34:25;35;Atropelamento;444,000;BR-101/SC;Sul;Atropelamento - Usuário;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+27/09/2021;08:24:06;49;Acidente sem VITIMA;336,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;3;0;0;0;0
+27/09/2021;09:04:43;57;Acidente sem VITIMA;272,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;5;0;0;0;0
+27/09/2021;09:56:08;61;Acidente com VITIMA;335,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;1;2;0;1;0;0
+27/09/2021;21:20:19;153;Acidente sem VITIMA;390,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;4;0;0;0;0
+28/09/2021;18:39:49;123;Acidente sem VITIMA;296,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+28/09/2021;23:29:23;145;Acidente com VITIMA;293,000;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+29/09/2021;10:19:13;58;Acidente sem VITIMA;435,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+29/09/2021;11:56:34;68;Acidente com VITIMA;345,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;1;1;0;0;0
+29/09/2021;12:00:15;69;Acidente sem VITIMA;280,000;BR-101/SC;Sul;Colisão - Traseira;3;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+29/09/2021;12:39:11;73;Acidente sem VITIMA;331,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+29/09/2021;12:55:57;76;Acidente sem VITIMA;458,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+29/09/2021;13:20:08;80;Acidente sem VITIMA;253,000;BR-101/SC;Sul;Tombamento;0;0;1;0;0;0;0;0;0;1;2;0;0;0;0
+29/09/2021;18:00:02;105;Acidente sem VITIMA;333,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;4;0;0;0;0
+29/09/2021;18:47:17;106;Acidente sem VITIMA;289,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+29/09/2021;21:49:22;119;Acidente com VITIMA;277,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+29/09/2021;23:14:54;122;Acidente sem VITIMA;405,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;5;0;0;0;0
+30/09/2021;07:01:32;12;Acidente sem VITIMA;272,000;BR-101/SC;Norte;Capotamento;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+30/09/2021;17:29:02;76;Acidente sem VITIMA;328,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+30/09/2021;19:14:37;100;Acidente com VITIMA;430,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;1;0;0
+30/09/2021;20:49:09;105;Acidente com VITIMA;355,000;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+01/10/2021;06:29:47;15;Acidente sem VITIMA;355,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+01/10/2021;09:02:49;39;Acidente com VITIMA;414,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;1;0;0;0
+01/10/2021;14:57:39;96;Acidente sem VITIMA;311,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;4;0;0;0;0
+01/10/2021;23:51:53;148;Acidente sem VITIMA;401,000;BR-101/SC;Ambos;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+02/10/2021;03:09:38;11;Acidente sem VITIMA;331,000;BR-101/SC;Norte;Tombamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+02/10/2021;04:48:57;20;Acidente com VITIMA;323,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+02/10/2021;11:19:54;57;Acidente com VITIMA;342,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+02/10/2021;19:25:25;99;Acidente sem VITIMA;348,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+03/10/2021;13:32:14;54;Acidente com VITIMA;280,000;BR-101/SC;Sul;Choque com veículo no acostamento;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+03/10/2021;20:07:48;90;Acidente sem VITIMA;463,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+03/10/2021;20:32:21;93;Acidente com VITIMA;434,000;BR-101/SC;Sul;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+03/10/2021;22:02:47;99;Acidente sem VITIMA;437,000;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+04/10/2021;12:04:48;123;Acidente com VITIMA;423,000;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+04/10/2021;17:00:55;143;Acidente sem VITIMA;330,000;BR-101/SC;Sul;Colisão - Traseira;1;0;1;0;0;0;0;0;0;0;2;0;0;0;0
+06/10/2021;13:24:22;85;Acidente sem VITIMA;284,000;BR-101/SC;Sul;Tombamento;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+06/10/2021;18:40:15;119;Acidente sem VITIMA;414,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+06/10/2021;18:40:18;120;Atropelamento;350,000;BR-101/SC;Norte;Atropelamento - Morador/Trabalhador/Estudante;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+06/10/2021;19:06:10;122;Acidente sem VITIMA;359,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+07/10/2021;00:50:03;2;Acidente sem VITIMA;385,000;BR-101/SC;Sul;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+07/10/2021;08:04:04;39;Acidente com VITIMA;413,000;BR-101/SC;Sul;Colisão - Frontal;0;0;0;2;0;0;0;0;0;0;1;0;1;0;0
+07/10/2021;11:03:49;86;Acidente com VITIMA;344,000;BR-101/SC;Norte;Capotamento;2;0;0;0;0;0;0;0;0;0;2;2;0;0;0
+07/10/2021;11:45:27;92;Acidente com VITIMA;332,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+07/10/2021;15:12:09;113;Acidente com VITIMA;328,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+07/10/2021;22:27:57;163;Acidente sem VITIMA;298,000;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0
+07/10/2021;22:33:01;164;Acidente sem VITIMA;304,000;BR-101/SC;Norte;Tombamento;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+08/10/2021;00:11:40;1;Acidente com VITIMA;262,000;BR-101/SC;Sul;Tombamento;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0
+08/10/2021;15:53:24;104;Acidente sem VITIMA;404,000;BR-101/SC;Norte;;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+08/10/2021;16:36:47;109;Acidente sem VITIMA;334,000;BR-101/SC;Norte;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+08/10/2021;18:10:45;116;Acidente sem VITIMA;341,220;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+08/10/2021;19:17:12;123;Acidente com VITIMA;431,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;2;0;0
+08/10/2021;20:50:50;131;Acidente sem VITIMA;336,000;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+08/10/2021;21:37:35;137;Acidente sem VITIMA;344,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;0;5;0;0;0
+09/10/2021;00:01:11;1;Acidente sem VITIMA;335,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+09/10/2021;02:40:45;12;Acidente sem VITIMA;391,100;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+09/10/2021;03:29:04;16;Acidente sem VITIMA;302,000;BR-101/SC;Norte;;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+09/10/2021;04:02:57;22;Acidente com VITIMA;294,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;1;0;0
+09/10/2021;04:46:11;25;Acidente sem VITIMA;381,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+09/10/2021;04:53:27;27;Acidente sem VITIMA;287,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+09/10/2021;05:09:30;28;Acidente sem VITIMA;290,000;BR-101/SC;Sul;Choque com objeto sobre a pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+09/10/2021;08:31:43;52;Acidente sem VITIMA;289,000;BR-101/SC;Sul;Choque - Arvore;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+09/10/2021;11:59:05;73;Acidente sem VITIMA;408,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+09/10/2021;17:12:55;111;Acidente sem VITIMA;314,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+09/10/2021;17:34:23;114;Acidente sem VITIMA;350,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+09/10/2021;18:25:16;118;Acidente sem VITIMA;326,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;10;0;0;0;0
+09/10/2021;18:27:24;119;Acidente sem VITIMA;257,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+09/10/2021;22:02:51;141;Acidente com VITIMA;378,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+10/10/2021;00:57:12;2;Acidente sem VITIMA;428,000;BR-101/SC;Norte;;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+10/10/2021;05:22:06;11;Acidente sem VITIMA;331,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+10/10/2021;05:24:06;12;Acidente sem VITIMA;395,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+10/10/2021;08:42:30;22;Acidente com VITIMA;282,000;BR-101/SC;Sul;Choque com objeto sobre a pista;1;0;0;0;0;0;0;0;0;1;2;0;1;0;0
+10/10/2021;17:58:31;68;Atropelamento;336,000;BR-101/SC;Sul;Atropelamento - Morador/Trabalhador/Estudante;1;0;0;1;0;0;0;0;0;0;4;0;1;0;0
+11/10/2021;01:07:15;2;Acidente sem VITIMA;298,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+11/10/2021;02:47:31;9;Acidente sem VITIMA;353,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+11/10/2021;08:40:18;45;Acidente sem VITIMA;390,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+11/10/2021;09:16:12;53;Acidente sem VITIMA;331,000;BR-101/SC;Sul;Choque Defensa;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+11/10/2021;13:07:35;79;Acidente com VITIMA;327,000;BR-101/SC;Sul;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+11/10/2021;14:44:09;88;Acidente sem VITIMA;285,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+11/10/2021;20:55:18;127;Acidente sem VITIMA;293,000;BR-101/SC;Norte;Colisão - Frontal;2;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+12/10/2021;02:39:56;7;Acidente sem VITIMA;434,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+12/10/2021;04:19:14;9;Acidente sem VITIMA;275,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+12/10/2021;05:01:32;11;Acidente com VITIMA;271,000;BR-101/SC;Sul;Tombamento;2;0;0;0;0;0;0;1;0;1;5;0;1;0;0
+12/10/2021;09:37:42;26;Acidente sem VITIMA;259,000;BR-101/SC;Norte;Outros;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+12/10/2021;10:52:11;32;Acidente com VITIMA;255,000;BR-101/SC;Norte;;1;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+12/10/2021;14:23:51;53;Acidente sem VITIMA;253,000;BR-101/SC;Sul;Outros;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+12/10/2021;14:36:43;57;Acidente sem VITIMA;254,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+12/10/2021;19:27:59;91;Acidente sem VITIMA;358,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+12/10/2021;21:33:50;101;Acidente sem VITIMA;269,000;BR-101/SC;Sul;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+12/10/2021;22:15:25;104;Acidente sem VITIMA;380,000;BR-101/SC;Sul;Saída de pista;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0
+13/10/2021;07:41:55;39;Acidente sem VITIMA;290,000;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+13/10/2021;07:51:30;41;Acidente sem VITIMA;331,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+13/10/2021;11:46:58;99;Acidente sem VITIMA;282,000;BR-101/SC;Sul;Colisão - Traseira;1;0;1;0;0;0;0;0;0;0;2;0;0;0;0
+13/10/2021;18:07:34;173;Acidente sem VITIMA;328,000;BR-101/SC;Ambos;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+13/10/2021;21:44:57;196;Acidente sem VITIMA;307,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+14/10/2021;03:35:49;12;Acidente sem VITIMA;298,000;BR-101/SC;Sul;Colisão - Traseira;0;0;1;0;0;0;0;0;0;1;2;0;0;0;0
+14/10/2021;07:49:52;62;Acidente com VITIMA;330,000;BR-101/SC;Sul;Colisão - Transversal;3;0;0;0;0;0;0;0;0;0;2;0;1;0;0
+14/10/2021;13:04:35;113;Acidente sem VITIMA;256,000;BR-101/SC;Norte;Colisão - Traseira;0;0;0;0;0;0;0;0;0;2;4;0;0;0;0
+14/10/2021;21:10:13;163;Acidente sem VITIMA;394,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+15/10/2021;03:10:47;5;Acidente sem VITIMA;451,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+15/10/2021;04:43:28;10;Acidente com VITIMA FATAL;406,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1
+15/10/2021;14:19:51;94;Acidente sem VITIMA;332,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+15/10/2021;21:04:50;137;Acidente sem VITIMA;264,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+16/10/2021;03:56:02;13;Acidente sem VITIMA;347,000;BR-101/SC;Norte;Choque com objeto sobre a pista;1;0;0;0;0;0;0;0;0;0;5;0;0;0;0
+16/10/2021;05:05:58;17;Acidente sem VITIMA;309,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+16/10/2021;05:22:32;20;Acidente com VITIMA;339,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;2;0;0;0
+16/10/2021;05:29:43;21;Acidente sem VITIMA;404,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+16/10/2021;08:59:50;42;Acidente com VITIMA;336,000;BR-101/SC;Norte;Queda de moto;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+16/10/2021;09:29:21;47;Acidente sem VITIMA;288,000;BR-101/SC;Sul;Tombamento;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+16/10/2021;09:52:20;48;Acidente sem VITIMA;261,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;4;0;0;0;0
+16/10/2021;10:56:06;52;Acidente sem VITIMA;362,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+16/10/2021;12:34:55;58;Acidente sem VITIMA;343,000;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+16/10/2021;19:30:11;83;Acidente sem VITIMA;367,800;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+16/10/2021;19:49:33;84;Acidente sem VITIMA;310,000;BR-101/SC;Norte;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+16/10/2021;21:11:14;89;Acidente sem VITIMA;257,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+16/10/2021;21:24:28;92;Acidente com VITIMA FATAL;418,000;BR-101/SC;Sul;Colisão - Frontal;1;0;0;1;0;0;0;0;0;0;2;0;0;0;1
+16/10/2021;21:50:47;95;Acidente sem VITIMA;317,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+16/10/2021;23:16:10;97;Acidente com VITIMA;327,000;BR-101/SC;Norte;Capotamento;1;0;0;1;0;0;0;0;0;0;0;0;3;0;0
+16/10/2021;23:28:40;100;Acidente sem VITIMA;352,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+17/10/2021;00:08:51;1;Acidente sem VITIMA;330,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+17/10/2021;07:32:12;20;Acidente sem VITIMA;438,000;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+17/10/2021;07:37:18;21;Acidente sem VITIMA;450,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+17/10/2021;17:10:48;75;Acidente sem VITIMA;435,000;BR-101/SC;Sul;Choque com veículo no acostamento;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+17/10/2021;18:44:24;88;Acidente sem VITIMA;332,000;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+17/10/2021;23:39:05;105;Acidente sem VITIMA;308,000;BR-101/SC;Sul;Choque Barreira;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+18/10/2021;14:34:26;62;Acidente sem VITIMA;336,000;BR-101/SC;Sul;Colisão - Frontal;1;0;0;1;0;0;0;0;0;0;3;0;0;0;0
+19/10/2021;08:39:18;67;Acidente sem VITIMA;372,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+19/10/2021;14:30:11;126;Acidente com VITIMA;370,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+19/10/2021;17:53:23;146;Acidente com VITIMA;307,000;BR-101/SC;Norte;Queda de moto;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+19/10/2021;18:21:26;149;Acidente sem VITIMA;339,000;BR-101/SC;Ambos;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;4;0;0;0;0
+19/10/2021;20:41:25;154;Acidente com VITIMA;256,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+20/10/2021;09:34:48;63;Acidente com VITIMA;282,000;BR-101/SC;Sul;Tombamento;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0
+20/10/2021;13:31:09;101;Acidente sem VITIMA;331,000;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+20/10/2021;15:53:00;117;Acidente sem VITIMA;404,000;BR-101/SC;Norte;Colisão - Transversal;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+20/10/2021;22:46:47;155;Acidente sem VITIMA;393,700;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+21/10/2021;00:37:19;4;Acidente com VITIMA;280,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+21/10/2021;00:41:32;5;Acidente com VITIMA;319,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+21/10/2021;12:55:43;85;Acidente com VITIMA;282,000;BR-101/SC;Sul;Colisão - Frontal;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+21/10/2021;17:51:51;125;Acidente sem VITIMA;311,000;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+21/10/2021;21:59:20;153;Acidente sem VITIMA;264,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+22/10/2021;07:29:19;34;Acidente sem VITIMA;298,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+22/10/2021;07:46:31;37;Acidente sem VITIMA;330,000;BR-101/SC;Sul;Colisão - Traseira;3;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+22/10/2021;07:51:10;38;Acidente com VITIMA;329,000;BR-101/SC;Sul;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+22/10/2021;08:09:59;42;Acidente sem VITIMA;328,000;BR-101/SC;Sul;Colisão - Lateral;3;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+22/10/2021;09:15:52;55;Acidente com VITIMA;330,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;1;1;0;0;0
+22/10/2021;09:27:19;58;Acidente sem VITIMA;284,000;BR-101/SC;Sul;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+22/10/2021;14:20:51;96;Acidente sem VITIMA;273,600;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+22/10/2021;20:05:41;141;Acidente com VITIMA;437,700;BR-101/SC;Sul;Colisão - Frontal;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+22/10/2021;22:15:00;154;Acidente com VITIMA;414,700;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+23/10/2021;01:43:42;7;Acidente sem VITIMA;248,000;BR-101/SC;Norte;Choque Defensa;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+23/10/2021;02:48:56;8;Acidente sem VITIMA;397,100;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+23/10/2021;03:13:46;9;Acidente sem VITIMA;384,000;BR-101/SC;Sul;Saída de pista;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+23/10/2021;05:26:03;15;Acidente com VITIMA;381,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+23/10/2021;06:42:16;22;Acidente sem VITIMA;331,000;BR-101/SC;Sul;Colisão - Transversal;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+23/10/2021;07:07:10;26;Acidente com VITIMA;283,000;BR-101/SC;Sul;Choque - Caixa de Captação/Fibra;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+23/10/2021;13:00:22;78;Acidente sem VITIMA;273,000;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;1;0;0;3;0;0;0;0
+23/10/2021;15:04:40;91;Acidente sem VITIMA;371,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+23/10/2021;16:35:11;102;Acidente com VITIMA;311,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;3;1;0;0;0
+23/10/2021;19:59:26;118;Acidente sem VITIMA;334,000;BR-101/SC;Norte;Outros;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+23/10/2021;21:07:59;123;Acidente sem VITIMA;355,000;BR-101/SC;Norte;Choque com objeto sobre a pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+23/10/2021;21:22:29;126;Acidente sem VITIMA;264,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;4;0;0;0;0
+23/10/2021;23:01:53;130;Acidente sem VITIMA;269,000;BR-101/SC;Sul;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+23/10/2021;23:08:29;131;Acidente sem VITIMA;315,000;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+24/10/2021;01:48:07;1;Acidente sem VITIMA;328,000;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+24/10/2021;03:16:35;4;Acidente sem VITIMA;375,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+24/10/2021;04:33:36;7;Acidente sem VITIMA;344,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+24/10/2021;11:36:55;48;Acidente com VITIMA;257,000;BR-101/SC;Sul;Choque Defensa;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+24/10/2021;15:59:01;84;Acidente com VITIMA;334,000;BR-101/SC;Ambos;Colisão - Frontal;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0
+24/10/2021;18:05:13;102;Atropelamento;338,000;BR-101/SC;Sul;Atropelamento - Usuário;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+24/10/2021;19:39:50;116;Acidente sem VITIMA;344,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;0;0;0;0;0;0;0;6;0;0;0;0
+25/10/2021;00:38:10;4;Acidente sem VITIMA;464,000;BR-101/SC;Norte;Atropelamento de Animal;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+25/10/2021;06:48:37;26;Acidente com VITIMA;331,000;BR-101/SC;Ambos;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;1;0;1;0;0
+25/10/2021;08:02:53;51;Acidente com VITIMA;368,000;BR-101/SC;Sul;Tombamento;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+25/10/2021;12:32:05;83;Acidente com VITIMA;338,000;BR-101/SC;Sul;Tombamento;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0
+25/10/2021;16:41:53;123;Acidente sem VITIMA;441,000;BR-101/SC;Norte;Capotamento;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+26/10/2021;03:56:04;7;Acidente com VITIMA;462,000;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;2;2;0;0;0
+26/10/2021;08:12:46;41;Acidente com VITIMA;340,000;BR-101/SC;Norte;Colisão - Lateral;2;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+26/10/2021;09:54:04;67;Acidente com VITIMA;336,000;BR-101/SC;Norte;Colisão - Traseira;1;0;0;0;0;0;0;0;0;2;2;0;1;0;0
+26/10/2021;12:29:49;88;Acidente sem VITIMA;341,000;BR-101/SC;Sul;Choque com objeto sobre a pista;1;0;0;1;0;0;0;0;0;0;2;0;0;0;0
+26/10/2021;13:38:29;96;Acidente sem VITIMA;412,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+26/10/2021;13:47:49;97;Acidente sem VITIMA;375,000;BR-101/SC;Norte;Tombamento;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+26/10/2021;20:56:42;141;Acidente sem VITIMA;440,000;BR-101/SC;Sul;Colisão - Transversal;1;0;0;0;0;0;0;0;0;2;3;0;0;0;0
+26/10/2021;23:21:57;153;Acidente sem VITIMA;317,600;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+27/10/2021;09:52:39;77;Acidente sem VITIMA;344,000;BR-101/SC;Norte;Choque Barreira;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+27/10/2021;14:40:17;122;Acidente sem VITIMA;421,000;BR-101/SC;Sul;Colisão - Transversal;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0
+27/10/2021;21:11:29;156;Acidente sem VITIMA;333,000;BR-101/SC;Norte;Colisão - Lateral;1;0;0;1;0;0;0;0;0;0;5;0;0;0;0
+28/10/2021;11:28:05;78;Acidente com VITIMA;360,000;BR-101/SC;Norte;Choque Defensa;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+28/10/2021;19:17:32;128;Acidente sem VITIMA;275,000;BR-101/SC;Norte;Saída de pista;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+28/10/2021;19:27:45;131;Acidente com VITIMA;289,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;1;0;0;0;0;0;0;2;1;0;0;0
+29/10/2021;07:21:55;38;Acidente com VITIMA;455,000;BR-101/SC;Sul;Queda de moto;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+29/10/2021;09:34:06;53;Acidente sem VITIMA;332,000;BR-101/SC;Norte;Colisão - Transversal;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+29/10/2021;09:44:07;55;Acidente sem VITIMA;259,000;BR-101/SC;Sul;Choque Defensa;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+29/10/2021;12:08:16;76;Acidente sem VITIMA;344,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;1;0;0;2;0;0;0;0
+29/10/2021;12:22:57;77;Acidente com VITIMA;416,000;BR-101/SC;Norte;Colisão - Traseira;2;0;0;1;0;0;0;0;0;0;2;2;0;0;0
+29/10/2021;12:57:34;80;Acidente sem VITIMA;369,000;BR-101/SC;Sul;Outros;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+29/10/2021;20:19:35;120;Acidente sem VITIMA;369,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+29/10/2021;22:00:35;131;Acidente com VITIMA;344,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+29/10/2021;23:46:44;139;Acidente sem VITIMA;257,000;BR-101/SC;Norte;Choque Talude;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+30/10/2021;07:56:11;40;Acidente sem VITIMA;363,000;BR-101/SC;Sul;Colisão - Traseira;1;0;0;0;0;0;0;0;0;1;3;0;0;0;0
+30/10/2021;12:43:48;79;Acidente sem VITIMA;264,000;BR-101/SC;Norte;;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+30/10/2021;13:24:17;82;Acidente sem VITIMA;257,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0
+30/10/2021;14:18:26;91;Acidente sem VITIMA;331,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+30/10/2021;15:53:09;102;Acidente sem VITIMA;272,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+30/10/2021;18:22:35;116;Acidente com VITIMA;442,000;BR-101/SC;Norte;Saída de pista;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+30/10/2021;22:44:31;139;Acidente com VITIMA;364,000;BR-101/SC;Norte;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;1;0;0;0
+31/10/2021;03:16:33;13;Acidente com VITIMA;351,000;BR-101/SC;Sul;Saída de pista;1;0;0;0;0;0;0;0;0;0;3;1;0;0;0
+31/10/2021;06:44:00;26;Acidente com VITIMA;348,000;BR-101/SC;Sul;Capotamento;1;0;0;0;0;0;0;0;0;0;0;1;4;0;0
